@@ -58,4 +58,4 @@ UNION
     GROUP BY p.category
     ORDER BY total_quantity DESC, total_revenue DESC
     LIMIT 1
-);
+) ORDER BY season;
