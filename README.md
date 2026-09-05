@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1164-product-price-at-a-given-date](https://github.com/Sukhman3125/Coding-Problems/tree/master/1164-product-price-at-a-given-date) |
 | [1174-immediate-food-delivery-ii](https://github.com/Sukhman3125/Coding-Problems/tree/master/1174-immediate-food-delivery-ii) |
 | [1193-monthly-transactions-i](https://github.com/Sukhman3125/Coding-Problems/tree/master/1193-monthly-transactions-i) |
+| [3564-seasonal-sales-analysis](https://github.com/Sukhman3125/Coding-Problems/tree/master/3564-seasonal-sales-analysis) |
 ## Math
 |  |
 | ------- |
