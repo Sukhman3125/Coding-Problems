@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/Sukhman3125/Coding-Problems/tree/master/0115-distinct-subsequences) |
 | [1446-consecutive-characters](https://github.com/Sukhman3125/Coding-Problems/tree/master/1446-consecutive-characters) |
 ## Sorting
 |  |
@@ -72,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2013-detect-squares](https://github.com/Sukhman3125/Coding-Problems/tree/master/2013-detect-squares) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0115-distinct-subsequences](https://github.com/Sukhman3125/Coding-Problems/tree/master/0115-distinct-subsequences) |
 <!---LeetCode Topics End-->
