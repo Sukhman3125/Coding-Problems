@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sukhman3125/Coding-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Sukhman3125/Coding-Problems/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sukhman3125/Coding-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Sukhman3125/Coding-Problems/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## String
 |  |
 | ------- |
@@ -77,4 +79,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0115-distinct-subsequences](https://github.com/Sukhman3125/Coding-Problems/tree/master/0115-distinct-subsequences) |
+## Depth-First Search
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Sukhman3125/Coding-Problems/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 <!---LeetCode Topics End-->
