@@ -94,4 +94,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/Sukhman3125/Coding-Problems/tree/master/3483-unique-3-digit-even-numbers) |
+## Linked List
+|  |
+| ------- |
+| [2181-merge-nodes-in-between-zeros](https://github.com/Sukhman3125/Coding-Problems/tree/master/2181-merge-nodes-in-between-zeros) |
+## Simulation
+|  |
+| ------- |
+| [2181-merge-nodes-in-between-zeros](https://github.com/Sukhman3125/Coding-Problems/tree/master/2181-merge-nodes-in-between-zeros) |
 <!---LeetCode Topics End-->
