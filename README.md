@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1486-xor-operation-in-an-array](https://github.com/Sukhman3125/Coding-Problems/tree/master/1486-xor-operation-in-an-array) |
+| [2769-find-the-maximum-achievable-number](https://github.com/Sukhman3125/Coding-Problems/tree/master/2769-find-the-maximum-achievable-number) |
 ## Bit Manipulation
 |  |
 | ------- |
