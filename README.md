@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0901-online-stock-span](https://github.com/Sukhman3125/Coding-Problems/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/Sukhman3125/Coding-Problems/tree/master/0933-number-of-recent-calls) |
 | [2013-detect-squares](https://github.com/Sukhman3125/Coding-Problems/tree/master/2013-detect-squares) |
 ## Counting
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 |  |
 | ------- |
+| [0901-online-stock-span](https://github.com/Sukhman3125/Coding-Problems/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/Sukhman3125/Coding-Problems/tree/master/0933-number-of-recent-calls) |
 | [2013-detect-squares](https://github.com/Sukhman3125/Coding-Problems/tree/master/2013-detect-squares) |
 ## Dynamic Programming
@@ -210,4 +212,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/Sukhman3125/Coding-Problems/tree/master/0735-asteroid-collision) |
+| [0901-online-stock-span](https://github.com/Sukhman3125/Coding-Problems/tree/master/0901-online-stock-span) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/Sukhman3125/Coding-Problems/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
