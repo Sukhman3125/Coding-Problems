@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/Sukhman3125/Coding-Problems/tree/master/0334-increasing-triplet-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/Sukhman3125/Coding-Problems/tree/master/0435-non-overlapping-intervals) |
 | [0643-maximum-average-subarray-i](https://github.com/Sukhman3125/Coding-Problems/tree/master/0643-maximum-average-subarray-i) |
+| [0735-asteroid-collision](https://github.com/Sukhman3125/Coding-Problems/tree/master/0735-asteroid-collision) |
 | [0746-min-cost-climbing-stairs](https://github.com/Sukhman3125/Coding-Problems/tree/master/0746-min-cost-climbing-stairs) |
 | [1004-max-consecutive-ones-iii](https://github.com/Sukhman3125/Coding-Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/Sukhman3125/Coding-Problems/tree/master/1255-maximum-score-words-formed-by-letters) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/Sukhman3125/Coding-Problems/tree/master/0735-asteroid-collision) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Sukhman3125/Coding-Problems/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2352-equal-row-and-column-pairs](https://github.com/Sukhman3125/Coding-Problems/tree/master/2352-equal-row-and-column-pairs) |
 ## Backtracking
@@ -201,4 +203,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1268-search-suggestions-system](https://github.com/Sukhman3125/Coding-Problems/tree/master/1268-search-suggestions-system) |
+## Stack
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/Sukhman3125/Coding-Problems/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->
