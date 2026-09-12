@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sukhman3125/Coding-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0872-leaf-similar-trees](https://github.com/Sukhman3125/Coding-Problems/tree/master/0872-leaf-similar-trees) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Sukhman3125/Coding-Problems/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Sukhman3125/Coding-Problems/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Search Tree
 |  |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sukhman3125/Coding-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0872-leaf-similar-trees](https://github.com/Sukhman3125/Coding-Problems/tree/master/0872-leaf-similar-trees) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Sukhman3125/Coding-Problems/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Sukhman3125/Coding-Problems/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## String
 |  |
@@ -114,11 +116,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Sukhman3125/Coding-Problems/tree/master/0392-is-subsequence) |
 | [0746-min-cost-climbing-stairs](https://github.com/Sukhman3125/Coding-Problems/tree/master/0746-min-cost-climbing-stairs) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/Sukhman3125/Coding-Problems/tree/master/1255-maximum-score-words-formed-by-letters) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Sukhman3125/Coding-Problems/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Sukhman3125/Coding-Problems/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0872-leaf-similar-trees](https://github.com/Sukhman3125/Coding-Problems/tree/master/0872-leaf-similar-trees) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Sukhman3125/Coding-Problems/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Sukhman3125/Coding-Problems/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Recursion
 |  |
@@ -177,4 +181,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/Sukhman3125/Coding-Problems/tree/master/0933-number-of-recent-calls) |
+## DP on Trees
+|  |
+| ------- |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Sukhman3125/Coding-Problems/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 <!---LeetCode Topics End-->
