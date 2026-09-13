@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1321-restaurant-growth](https://github.com/Sukhman3125/Coding-Problems/tree/master/1321-restaurant-growth) |
 | [1341-movie-rating](https://github.com/Sukhman3125/Coding-Problems/tree/master/1341-movie-rating) |
 | [1934-confirmation-rate](https://github.com/Sukhman3125/Coding-Problems/tree/master/1934-confirmation-rate) |
+| [3521-find-product-recommendation-pairs](https://github.com/Sukhman3125/Coding-Problems/tree/master/3521-find-product-recommendation-pairs) |
 | [3554-find-category-recommendation-pairs](https://github.com/Sukhman3125/Coding-Problems/tree/master/3554-find-category-recommendation-pairs) |
 | [3564-seasonal-sales-analysis](https://github.com/Sukhman3125/Coding-Problems/tree/master/3564-seasonal-sales-analysis) |
 ## Math
