@@ -1,6 +1,6 @@
 class Solution {
 private:
-    int _(vector<vector<int>> img1, vector<vector<int>>& img2, pair<int,int> p) {
+    int _(vector<vector<int>>& img1, vector<vector<int>>& img2, pair<int,int> p) {
         int cnt = 0;
         auto [up, right] = p;
         int n = img1.size();
