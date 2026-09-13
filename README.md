@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/Sukhman3125/Coding-Problems/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Sukhman3125/Coding-Problems/tree/master/0115-distinct-subsequences) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Sukhman3125/Coding-Problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Sukhman3125/Coding-Problems/tree/master/0392-is-subsequence) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/Sukhman3125/Coding-Problems/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Sukhman3125/Coding-Problems/tree/master/0115-distinct-subsequences) |
 | [0338-counting-bits](https://github.com/Sukhman3125/Coding-Problems/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Sukhman3125/Coding-Problems/tree/master/0392-is-subsequence) |
