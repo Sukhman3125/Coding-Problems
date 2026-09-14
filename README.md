@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/Sukhman3125/Coding-Problems/tree/master/0338-counting-bits) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/Sukhman3125/Coding-Problems/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1486-xor-operation-in-an-array](https://github.com/Sukhman3125/Coding-Problems/tree/master/1486-xor-operation-in-an-array) |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/Sukhman3125/Coding-Problems/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Array
 |  |
 | ------- |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1255-maximum-score-words-formed-by-letters](https://github.com/Sukhman3125/Coding-Problems/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Sukhman3125/Coding-Problems/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Sukhman3125/Coding-Problems/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/Sukhman3125/Coding-Problems/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0845-longest-mountain-in-array](https://github.com/Sukhman3125/Coding-Problems/tree/master/0845-longest-mountain-in-array) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Sukhman3125/Coding-Problems/tree/master/3483-unique-3-digit-even-numbers) |
 | [3588-find-maximum-area-of-a-triangle](https://github.com/Sukhman3125/Coding-Problems/tree/master/3588-find-maximum-area-of-a-triangle) |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/Sukhman3125/Coding-Problems/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Linked List
 |  |
 | ------- |
