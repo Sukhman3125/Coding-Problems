@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0391-perfect-rectangle](https://github.com/Sukhman3125/Coding-Problems/tree/master/0391-perfect-rectangle) |
 | [0836-rectangle-overlap](https://github.com/Sukhman3125/Coding-Problems/tree/master/0836-rectangle-overlap) |
 | [1486-xor-operation-in-an-array](https://github.com/Sukhman3125/Coding-Problems/tree/master/1486-xor-operation-in-an-array) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Sukhman3125/Coding-Problems/tree/master/2769-find-the-maximum-achievable-number) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sukhman3125/Coding-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Sukhman3125/Coding-Problems/tree/master/0304-range-sum-query-2d-immutable) |
 | [0334-increasing-triplet-subsequence](https://github.com/Sukhman3125/Coding-Problems/tree/master/0334-increasing-triplet-subsequence) |
+| [0391-perfect-rectangle](https://github.com/Sukhman3125/Coding-Problems/tree/master/0391-perfect-rectangle) |
 | [0393-utf-8-validation](https://github.com/Sukhman3125/Coding-Problems/tree/master/0393-utf-8-validation) |
 | [0399-evaluate-division](https://github.com/Sukhman3125/Coding-Problems/tree/master/0399-evaluate-division) |
 | [0435-non-overlapping-intervals](https://github.com/Sukhman3125/Coding-Problems/tree/master/0435-non-overlapping-intervals) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0391-perfect-rectangle](https://github.com/Sukhman3125/Coding-Problems/tree/master/0391-perfect-rectangle) |
 | [0705-design-hashset](https://github.com/Sukhman3125/Coding-Problems/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Sukhman3125/Coding-Problems/tree/master/0706-design-hashmap) |
 | [1072-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Sukhman3125/Coding-Problems/tree/master/1072-flip-columns-for-maximum-number-of-equal-rows) |
@@ -345,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0391-perfect-rectangle](https://github.com/Sukhman3125/Coding-Problems/tree/master/0391-perfect-rectangle) |
 | [0836-rectangle-overlap](https://github.com/Sukhman3125/Coding-Problems/tree/master/0836-rectangle-overlap) |
 | [3588-find-maximum-area-of-a-triangle](https://github.com/Sukhman3125/Coding-Problems/tree/master/3588-find-maximum-area-of-a-triangle) |
 ## String Matching
@@ -368,4 +372,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0705-design-hashset](https://github.com/Sukhman3125/Coding-Problems/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Sukhman3125/Coding-Problems/tree/master/0706-design-hashmap) |
+## Sweep Line
+|  |
+| ------- |
+| [0391-perfect-rectangle](https://github.com/Sukhman3125/Coding-Problems/tree/master/0391-perfect-rectangle) |
 <!---LeetCode Topics End-->
