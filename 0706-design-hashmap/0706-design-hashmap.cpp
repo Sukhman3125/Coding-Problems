@@ -1,32 +1,20 @@
 class MyHashMap {
+    vector<int> mp;
 public:
-    vector<pair<int,int>> mp;
+    MyHashMap() {
+        mp.assign(1000001,-1);
+    }
+    
     void put(int key, int value) {
-        for(auto& [k,v]: mp){
-            if(k==key) {
-                v = value;
-                return;
-            }
-        }
-        mp.push_back({key,value});
+        mp[key] = value;
     }
     
     int get(int key) {
-        for(auto& [k,v]: mp){
-            if(k==key) {
-                return v;
-            }
-        }
-        return -1;
+        return mp[key];
     }
     
     void remove(int key) {
-        for(auto& [k,v]: mp){
-            if(k==key) {
-                v = -1;
-                return;
-            }
-        }
+        mp[key] = -1;
     }
 };
 
