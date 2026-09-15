@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1446-consecutive-characters](https://github.com/Sukhman3125/Coding-Problems/tree/master/1446-consecutive-characters) |
 | [1768-merge-strings-alternately](https://github.com/Sukhman3125/Coding-Problems/tree/master/1768-merge-strings-alternately) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Sukhman3125/Coding-Problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2810-faulty-keyboard](https://github.com/Sukhman3125/Coding-Problems/tree/master/2810-faulty-keyboard) |
 ## Sorting
 |  |
 | ------- |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2352-equal-row-and-column-pairs](https://github.com/Sukhman3125/Coding-Problems/tree/master/2352-equal-row-and-column-pairs) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/Sukhman3125/Coding-Problems/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Sukhman3125/Coding-Problems/tree/master/2553-separate-the-digits-in-an-array) |
+| [2810-faulty-keyboard](https://github.com/Sukhman3125/Coding-Problems/tree/master/2810-faulty-keyboard) |
 | [3433-count-mentions-per-user](https://github.com/Sukhman3125/Coding-Problems/tree/master/3433-count-mentions-per-user) |
 ## Backtracking
 |  |
