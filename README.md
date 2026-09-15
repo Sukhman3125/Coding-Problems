@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Sukhman3125/Coding-Problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0643-maximum-average-subarray-i](https://github.com/Sukhman3125/Coding-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [0705-design-hashset](https://github.com/Sukhman3125/Coding-Problems/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/Sukhman3125/Coding-Problems/tree/master/0706-design-hashmap) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Sukhman3125/Coding-Problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0735-asteroid-collision](https://github.com/Sukhman3125/Coding-Problems/tree/master/0735-asteroid-collision) |
 | [0746-min-cost-climbing-stairs](https://github.com/Sukhman3125/Coding-Problems/tree/master/0746-min-cost-climbing-stairs) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/Sukhman3125/Coding-Problems/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/Sukhman3125/Coding-Problems/tree/master/0706-design-hashmap) |
 | [1072-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Sukhman3125/Coding-Problems/tree/master/1072-flip-columns-for-maximum-number-of-equal-rows) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/Sukhman3125/Coding-Problems/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [2013-detect-squares](https://github.com/Sukhman3125/Coding-Problems/tree/master/2013-detect-squares) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/Sukhman3125/Coding-Problems/tree/master/0304-range-sum-query-2d-immutable) |
 | [0705-design-hashset](https://github.com/Sukhman3125/Coding-Problems/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/Sukhman3125/Coding-Problems/tree/master/0706-design-hashmap) |
 | [0901-online-stock-span](https://github.com/Sukhman3125/Coding-Problems/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/Sukhman3125/Coding-Problems/tree/master/0933-number-of-recent-calls) |
 | [2013-detect-squares](https://github.com/Sukhman3125/Coding-Problems/tree/master/2013-detect-squares) |
@@ -206,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/Sukhman3125/Coding-Problems/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/Sukhman3125/Coding-Problems/tree/master/0706-design-hashmap) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Sukhman3125/Coding-Problems/tree/master/2181-merge-nodes-in-between-zeros) |
 ## Simulation
 |  |
@@ -346,4 +350,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/Sukhman3125/Coding-Problems/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/Sukhman3125/Coding-Problems/tree/master/0706-design-hashmap) |
 <!---LeetCode Topics End-->
