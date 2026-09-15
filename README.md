@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/Sukhman3125/Coding-Problems/tree/master/0450-delete-node-in-a-bst) |
 | [0814-binary-tree-pruning](https://github.com/Sukhman3125/Coding-Problems/tree/master/0814-binary-tree-pruning) |
 | [0872-leaf-similar-trees](https://github.com/Sukhman3125/Coding-Problems/tree/master/0872-leaf-similar-trees) |
+| [0938-range-sum-of-bst](https://github.com/Sukhman3125/Coding-Problems/tree/master/0938-range-sum-of-bst) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Sukhman3125/Coding-Problems/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Sukhman3125/Coding-Problems/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Sukhman3125/Coding-Problems/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sukhman3125/Coding-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Sukhman3125/Coding-Problems/tree/master/0450-delete-node-in-a-bst) |
+| [0938-range-sum-of-bst](https://github.com/Sukhman3125/Coding-Problems/tree/master/0938-range-sum-of-bst) |
 | [1004-max-consecutive-ones-iii](https://github.com/Sukhman3125/Coding-Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1268-search-suggestions-system](https://github.com/Sukhman3125/Coding-Problems/tree/master/1268-search-suggestions-system) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Sukhman3125/Coding-Problems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/Sukhman3125/Coding-Problems/tree/master/0450-delete-node-in-a-bst) |
 | [0814-binary-tree-pruning](https://github.com/Sukhman3125/Coding-Problems/tree/master/0814-binary-tree-pruning) |
 | [0872-leaf-similar-trees](https://github.com/Sukhman3125/Coding-Problems/tree/master/0872-leaf-similar-trees) |
+| [0938-range-sum-of-bst](https://github.com/Sukhman3125/Coding-Problems/tree/master/0938-range-sum-of-bst) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Sukhman3125/Coding-Problems/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Sukhman3125/Coding-Problems/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Sukhman3125/Coding-Problems/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -217,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/Sukhman3125/Coding-Problems/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0814-binary-tree-pruning](https://github.com/Sukhman3125/Coding-Problems/tree/master/0814-binary-tree-pruning) |
 | [0872-leaf-similar-trees](https://github.com/Sukhman3125/Coding-Problems/tree/master/0872-leaf-similar-trees) |
+| [0938-range-sum-of-bst](https://github.com/Sukhman3125/Coding-Problems/tree/master/0938-range-sum-of-bst) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Sukhman3125/Coding-Problems/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Sukhman3125/Coding-Problems/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Sukhman3125/Coding-Problems/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
