@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1268-search-suggestions-system](https://github.com/Sukhman3125/Coding-Problems/tree/master/1268-search-suggestions-system) |
 | [1446-consecutive-characters](https://github.com/Sukhman3125/Coding-Problems/tree/master/1446-consecutive-characters) |
 | [1768-merge-strings-alternately](https://github.com/Sukhman3125/Coding-Problems/tree/master/1768-merge-strings-alternately) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Sukhman3125/Coding-Problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Sorting
 |  |
 | ------- |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0845-longest-mountain-in-array](https://github.com/Sukhman3125/Coding-Problems/tree/master/0845-longest-mountain-in-array) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/Sukhman3125/Coding-Problems/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Sukhman3125/Coding-Problems/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Sukhman3125/Coding-Problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Sukhman3125/Coding-Problems/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/Sukhman3125/Coding-Problems/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Depth-First Search
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0845-longest-mountain-in-array](https://github.com/Sukhman3125/Coding-Problems/tree/master/0845-longest-mountain-in-array) |
 | [1768-merge-strings-alternately](https://github.com/Sukhman3125/Coding-Problems/tree/master/1768-merge-strings-alternately) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/Sukhman3125/Coding-Problems/tree/master/2462-total-cost-to-hire-k-workers) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Sukhman3125/Coding-Problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Greedy
 |  |
 | ------- |
@@ -234,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Sukhman3125/Coding-Problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0649-dota2-senate](https://github.com/Sukhman3125/Coding-Problems/tree/master/0649-dota2-senate) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Sukhman3125/Coding-Problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Sukhman3125/Coding-Problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2542-maximum-subsequence-score](https://github.com/Sukhman3125/Coding-Problems/tree/master/2542-maximum-subsequence-score) |
 | [3588-find-maximum-area-of-a-triangle](https://github.com/Sukhman3125/Coding-Problems/tree/master/3588-find-maximum-area-of-a-triangle) |
 ## Longest Increasing Subsequence
