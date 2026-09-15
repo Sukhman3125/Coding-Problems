@@ -225,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0967-numbers-with-same-consecutive-differences](https://github.com/Sukhman3125/Coding-Problems/tree/master/0967-numbers-with-same-consecutive-differences) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/Sukhman3125/Coding-Problems/tree/master/1255-maximum-score-words-formed-by-letters) |
 ## Bitmask
 |  |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/Sukhman3125/Coding-Problems/tree/master/0399-evaluate-division) |
+| [0967-numbers-with-same-consecutive-differences](https://github.com/Sukhman3125/Coding-Problems/tree/master/0967-numbers-with-same-consecutive-differences) |
 ## Union-Find
 |  |
 | ------- |
