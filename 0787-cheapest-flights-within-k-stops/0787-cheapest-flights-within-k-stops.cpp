@@ -11,17 +11,17 @@ public:
         vector<vector<int>> dist(n, vector<int>(k + 2, INT_MAX));
         dist[src][0] = 0;
         while (!pq.empty()) {
-            auto [cost, u, stops] = pq.top();
+            auto [cost, curr, stops] = pq.top();
             pq.pop();
-            if (u == dst)
+            if (curr == dst)
                 return cost;
             if (stops == k + 1)
                 continue;
-            for (auto [v, price] : adj[u]) {
+            for (auto [next, price] : adj[curr]) {
                 int newCost = cost + price;
-                if (newCost < dist[v][stops + 1]) {
-                    dist[v][stops + 1] = newCost;
-                    pq.push({newCost, v, stops + 1});
+                if (newCost < dist[next][stops + 1]) {
+                    dist[next][stops + 1] = newCost;
+                    pq.push({newCost, next, stops + 1});
                 }
             }
         }
