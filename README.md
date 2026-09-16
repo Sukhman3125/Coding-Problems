@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0391-perfect-rectangle](https://github.com/Sukhman3125/Coding-Problems/tree/master/0391-perfect-rectangle) |
 | [0836-rectangle-overlap](https://github.com/Sukhman3125/Coding-Problems/tree/master/0836-rectangle-overlap) |
 | [1486-xor-operation-in-an-array](https://github.com/Sukhman3125/Coding-Problems/tree/master/1486-xor-operation-in-an-array) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Sukhman3125/Coding-Problems/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Sukhman3125/Coding-Problems/tree/master/2769-find-the-maximum-achievable-number) |
 | [3433-count-mentions-per-user](https://github.com/Sukhman3125/Coding-Problems/tree/master/3433-count-mentions-per-user) |
 | [3588-find-maximum-area-of-a-triangle](https://github.com/Sukhman3125/Coding-Problems/tree/master/3588-find-maximum-area-of-a-triangle) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0845-longest-mountain-in-array](https://github.com/Sukhman3125/Coding-Problems/tree/master/0845-longest-mountain-in-array) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/Sukhman3125/Coding-Problems/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Sukhman3125/Coding-Problems/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Sukhman3125/Coding-Problems/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Sukhman3125/Coding-Problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Sukhman3125/Coding-Problems/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/Sukhman3125/Coding-Problems/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
@@ -299,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/Sukhman3125/Coding-Problems/tree/master/0304-range-sum-query-2d-immutable) |
 | [1004-max-consecutive-ones-iii](https://github.com/Sukhman3125/Coding-Problems/tree/master/1004-max-consecutive-ones-iii) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Sukhman3125/Coding-Problems/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2121-intervals-between-identical-elements](https://github.com/Sukhman3125/Coding-Problems/tree/master/2121-intervals-between-identical-elements) |
 | [2615-sum-of-distances](https://github.com/Sukhman3125/Coding-Problems/tree/master/2615-sum-of-distances) |
 ## Matrix
@@ -400,4 +403,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0391-perfect-rectangle](https://github.com/Sukhman3125/Coding-Problems/tree/master/0391-perfect-rectangle) |
+## Combinatorics
+|  |
+| ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Sukhman3125/Coding-Problems/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 <!---LeetCode Topics End-->
