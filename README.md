@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-image-overlap](https://github.com/Sukhman3125/Coding-Problems/tree/master/0835-image-overlap) |
 | [0845-longest-mountain-in-array](https://github.com/Sukhman3125/Coding-Problems/tree/master/0845-longest-mountain-in-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Sukhman3125/Coding-Problems/tree/master/1004-max-consecutive-ones-iii) |
+| [1019-next-greater-node-in-linked-list](https://github.com/Sukhman3125/Coding-Problems/tree/master/1019-next-greater-node-in-linked-list) |
 | [1072-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Sukhman3125/Coding-Problems/tree/master/1072-flip-columns-for-maximum-number-of-equal-rows) |
 | [1219-path-with-maximum-gold](https://github.com/Sukhman3125/Coding-Problems/tree/master/1219-path-with-maximum-gold) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/Sukhman3125/Coding-Problems/tree/master/1255-maximum-score-words-formed-by-letters) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0705-design-hashset](https://github.com/Sukhman3125/Coding-Problems/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Sukhman3125/Coding-Problems/tree/master/0706-design-hashmap) |
+| [1019-next-greater-node-in-linked-list](https://github.com/Sukhman3125/Coding-Problems/tree/master/1019-next-greater-node-in-linked-list) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Sukhman3125/Coding-Problems/tree/master/2181-merge-nodes-in-between-zeros) |
 ## Simulation
 |  |
@@ -364,12 +366,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Sukhman3125/Coding-Problems/tree/master/0402-remove-k-digits) |
 | [0735-asteroid-collision](https://github.com/Sukhman3125/Coding-Problems/tree/master/0735-asteroid-collision) |
 | [0901-online-stock-span](https://github.com/Sukhman3125/Coding-Problems/tree/master/0901-online-stock-span) |
+| [1019-next-greater-node-in-linked-list](https://github.com/Sukhman3125/Coding-Problems/tree/master/1019-next-greater-node-in-linked-list) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/Sukhman3125/Coding-Problems/tree/master/1673-find-the-most-competitive-subsequence) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/Sukhman3125/Coding-Problems/tree/master/0402-remove-k-digits) |
 | [0901-online-stock-span](https://github.com/Sukhman3125/Coding-Problems/tree/master/0901-online-stock-span) |
+| [1019-next-greater-node-in-linked-list](https://github.com/Sukhman3125/Coding-Problems/tree/master/1019-next-greater-node-in-linked-list) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/Sukhman3125/Coding-Problems/tree/master/1673-find-the-most-competitive-subsequence) |
 ## Breadth-First Search
 |  |
