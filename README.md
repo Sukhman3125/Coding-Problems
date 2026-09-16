@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1341-movie-rating](https://github.com/Sukhman3125/Coding-Problems/tree/master/1341-movie-rating) |
 | [1934-confirmation-rate](https://github.com/Sukhman3125/Coding-Problems/tree/master/1934-confirmation-rate) |
 | [3421-find-students-who-improved](https://github.com/Sukhman3125/Coding-Problems/tree/master/3421-find-students-who-improved) |
+| [3451-find-invalid-ip-addresses](https://github.com/Sukhman3125/Coding-Problems/tree/master/3451-find-invalid-ip-addresses) |
 | [3521-find-product-recommendation-pairs](https://github.com/Sukhman3125/Coding-Problems/tree/master/3521-find-product-recommendation-pairs) |
 | [3554-find-category-recommendation-pairs](https://github.com/Sukhman3125/Coding-Problems/tree/master/3554-find-category-recommendation-pairs) |
 | [3564-seasonal-sales-analysis](https://github.com/Sukhman3125/Coding-Problems/tree/master/3564-seasonal-sales-analysis) |
