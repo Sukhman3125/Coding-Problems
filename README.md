@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sukhman3125/Coding-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Sukhman3125/Coding-Problems/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/Sukhman3125/Coding-Problems/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/Sukhman3125/Coding-Problems/tree/master/0450-delete-node-in-a-bst) |
 | [0814-binary-tree-pruning](https://github.com/Sukhman3125/Coding-Problems/tree/master/0814-binary-tree-pruning) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sukhman3125/Coding-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Sukhman3125/Coding-Problems/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/Sukhman3125/Coding-Problems/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/Sukhman3125/Coding-Problems/tree/master/0450-delete-node-in-a-bst) |
 | [0814-binary-tree-pruning](https://github.com/Sukhman3125/Coding-Problems/tree/master/0814-binary-tree-pruning) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0072-edit-distance](https://github.com/Sukhman3125/Coding-Problems/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Sukhman3125/Coding-Problems/tree/master/0115-distinct-subsequences) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Sukhman3125/Coding-Problems/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Sukhman3125/Coding-Problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Sukhman3125/Coding-Problems/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/Sukhman3125/Coding-Problems/tree/master/0394-decode-string) |
@@ -386,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Sukhman3125/Coding-Problems/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0394-decode-string](https://github.com/Sukhman3125/Coding-Problems/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/Sukhman3125/Coding-Problems/tree/master/0402-remove-k-digits) |
 | [0735-asteroid-collision](https://github.com/Sukhman3125/Coding-Problems/tree/master/0735-asteroid-collision) |
