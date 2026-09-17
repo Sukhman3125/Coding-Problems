@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3374-first-letter-capitalization-ii](https://github.com/Sukhman3125/Coding-Problems/tree/master/3374-first-letter-capitalization-ii) |
 | [3421-find-students-who-improved](https://github.com/Sukhman3125/Coding-Problems/tree/master/3421-find-students-who-improved) |
 | [3451-find-invalid-ip-addresses](https://github.com/Sukhman3125/Coding-Problems/tree/master/3451-find-invalid-ip-addresses) |
+| [3482-analyze-organization-hierarchy](https://github.com/Sukhman3125/Coding-Problems/tree/master/3482-analyze-organization-hierarchy) |
 | [3521-find-product-recommendation-pairs](https://github.com/Sukhman3125/Coding-Problems/tree/master/3521-find-product-recommendation-pairs) |
 | [3554-find-category-recommendation-pairs](https://github.com/Sukhman3125/Coding-Problems/tree/master/3554-find-category-recommendation-pairs) |
 | [3564-seasonal-sales-analysis](https://github.com/Sukhman3125/Coding-Problems/tree/master/3564-seasonal-sales-analysis) |
