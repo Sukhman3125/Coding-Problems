@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1321-restaurant-growth](https://github.com/Sukhman3125/Coding-Problems/tree/master/1321-restaurant-growth) |
 | [1341-movie-rating](https://github.com/Sukhman3125/Coding-Problems/tree/master/1341-movie-rating) |
 | [1934-confirmation-rate](https://github.com/Sukhman3125/Coding-Problems/tree/master/1934-confirmation-rate) |
+| [3374-first-letter-capitalization-ii](https://github.com/Sukhman3125/Coding-Problems/tree/master/3374-first-letter-capitalization-ii) |
 | [3421-find-students-who-improved](https://github.com/Sukhman3125/Coding-Problems/tree/master/3421-find-students-who-improved) |
 | [3451-find-invalid-ip-addresses](https://github.com/Sukhman3125/Coding-Problems/tree/master/3451-find-invalid-ip-addresses) |
 | [3521-find-product-recommendation-pairs](https://github.com/Sukhman3125/Coding-Problems/tree/master/3521-find-product-recommendation-pairs) |
