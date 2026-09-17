@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0185-department-top-three-salaries](https://github.com/Sukhman3125/Coding-Problems/tree/master/0185-department-top-three-salaries) |
 | [0262-trips-and-users](https://github.com/Sukhman3125/Coding-Problems/tree/master/0262-trips-and-users) |
+| [0601-human-traffic-of-stadium](https://github.com/Sukhman3125/Coding-Problems/tree/master/0601-human-traffic-of-stadium) |
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/Sukhman3125/Coding-Problems/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
 | [1045-customers-who-bought-all-products](https://github.com/Sukhman3125/Coding-Problems/tree/master/1045-customers-who-bought-all-products) |
 | [1070-product-sales-analysis-iii](https://github.com/Sukhman3125/Coding-Problems/tree/master/1070-product-sales-analysis-iii) |
