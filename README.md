@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/Sukhman3125/Coding-Problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0391-perfect-rectangle](https://github.com/Sukhman3125/Coding-Problems/tree/master/0391-perfect-rectangle) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Sukhman3125/Coding-Problems/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0528-random-pick-with-weight](https://github.com/Sukhman3125/Coding-Problems/tree/master/0528-random-pick-with-weight) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/Sukhman3125/Coding-Problems/tree/master/0304-range-sum-query-2d-immutable) |
 | [0334-increasing-triplet-subsequence](https://github.com/Sukhman3125/Coding-Problems/tree/master/0334-increasing-triplet-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/Sukhman3125/Coding-Problems/tree/master/0354-russian-doll-envelopes) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Sukhman3125/Coding-Problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0391-perfect-rectangle](https://github.com/Sukhman3125/Coding-Problems/tree/master/0391-perfect-rectangle) |
 | [0393-utf-8-validation](https://github.com/Sukhman3125/Coding-Problems/tree/master/0393-utf-8-validation) |
 | [0399-evaluate-division](https://github.com/Sukhman3125/Coding-Problems/tree/master/0399-evaluate-division) |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/Sukhman3125/Coding-Problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0391-perfect-rectangle](https://github.com/Sukhman3125/Coding-Problems/tree/master/0391-perfect-rectangle) |
 | [0705-design-hashset](https://github.com/Sukhman3125/Coding-Problems/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Sukhman3125/Coding-Problems/tree/master/0706-design-hashmap) |
@@ -249,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/Sukhman3125/Coding-Problems/tree/master/0304-range-sum-query-2d-immutable) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Sukhman3125/Coding-Problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0705-design-hashset](https://github.com/Sukhman3125/Coding-Problems/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Sukhman3125/Coding-Problems/tree/master/0706-design-hashmap) |
 | [0901-online-stock-span](https://github.com/Sukhman3125/Coding-Problems/tree/master/0901-online-stock-span) |
@@ -530,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Randomized
 |  |
 | ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/Sukhman3125/Coding-Problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0528-random-pick-with-weight](https://github.com/Sukhman3125/Coding-Problems/tree/master/0528-random-pick-with-weight) |
 ## Counting Sort
 |  |
