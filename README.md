@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Sukhman3125/Coding-Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sukhman3125/Coding-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0278-first-bad-version](https://github.com/Sukhman3125/Coding-Problems/tree/master/0278-first-bad-version) |
 | [0436-find-right-interval](https://github.com/Sukhman3125/Coding-Problems/tree/master/0436-find-right-interval) |
 | [0450-delete-node-in-a-bst](https://github.com/Sukhman3125/Coding-Problems/tree/master/0450-delete-node-in-a-bst) |
 | [0713-subarray-product-less-than-k](https://github.com/Sukhman3125/Coding-Problems/tree/master/0713-subarray-product-less-than-k) |
@@ -502,4 +503,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3885-design-event-manager](https://github.com/Sukhman3125/Coding-Problems/tree/master/3885-design-event-manager) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Sukhman3125/Coding-Problems/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
