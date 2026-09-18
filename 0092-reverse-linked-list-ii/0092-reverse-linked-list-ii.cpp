@@ -9,22 +9,23 @@
  * };
  */
 class Solution {
+private:
+    struct nodes{
+        ListNode *pref, *suff, *start, *end; 
+    };
 public:
     ListNode* reverseBetween(ListNode* head, int left, int right) {
         ListNode* node = head;
         ListNode* prev = nullptr;
-        ListNode* pref = nullptr;
-        ListNode* suff = nullptr;
-        ListNode* start = nullptr;
-        ListNode* end = nullptr;
+        nodes stored;
         for (int i = 1; node != nullptr; i++) {
             if (i == left){
-                pref = prev;
-                start = node;
+                stored.pref = prev;
+                stored.start = node;
             }
             if (i == right){
-                end = node;
-                suff = node->next;
+                stored.end = node;
+                stored.suff = node->next;
             }
 
             if (i > left && i <= right) {
@@ -38,10 +39,10 @@ public:
             prev = node;
             node = node->next;
         }
-        start->next = suff;
-        if (!pref)
-            return end;
-        pref->next = end;
+        stored.start->next = stored.suff;
+        if (!stored.pref)
+            return stored.end;
+        stored.pref->next = stored.end;
         return head;
     }
 };
