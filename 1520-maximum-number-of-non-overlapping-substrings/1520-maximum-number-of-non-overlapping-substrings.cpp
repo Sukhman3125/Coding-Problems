@@ -1,4 +1,18 @@
 class Solution {
+private:
+    void cleanUp(vector<pair<int,int>>& v){
+        int i=0, j= v.size()-1;
+        while(i<j){
+            if(v[i].first != -1) {
+                i++;
+                continue;
+            }
+            while(i<j && v[j].first == -1) j--;
+            if(i<j) swap(v[i], v[j]);
+            i++;
+        }
+        while(v.back().first == -1) v.pop_back();
+    }
 public:
     vector<string> maxNumOfSubstrings(string s) {
         vector<pair<int,int>> subs(26,{-1,-1});
@@ -29,12 +43,7 @@ public:
                 if(!changed) break;
             }
         }
-        vector<pair<int,int>> _;
-        for(auto [i,j]:subs){
-            if(i==-1) continue;
-            _.push_back({i,j});
-        }
-        subs = _;
+        cleanUp(subs);
         sort(subs.begin(), subs.end(),[](const auto& a, const auto& b){
             auto& [i1,j1] = a;
             auto& [i2,j2] = b;
