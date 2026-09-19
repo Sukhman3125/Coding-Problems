@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1255-maximum-score-words-formed-by-letters](https://github.com/Sukhman3125/Coding-Problems/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1486-xor-operation-in-an-array](https://github.com/Sukhman3125/Coding-Problems/tree/master/1486-xor-operation-in-an-array) |
 | [2939-maximum-xor-product](https://github.com/Sukhman3125/Coding-Problems/tree/master/2939-maximum-xor-product) |
+| [3011-find-if-array-can-be-sorted](https://github.com/Sukhman3125/Coding-Problems/tree/master/3011-find-if-array-can-be-sorted) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/Sukhman3125/Coding-Problems/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Array
 |  |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2661-first-completely-painted-row-or-column](https://github.com/Sukhman3125/Coding-Problems/tree/master/2661-first-completely-painted-row-or-column) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Sukhman3125/Coding-Problems/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Sukhman3125/Coding-Problems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3011-find-if-array-can-be-sorted](https://github.com/Sukhman3125/Coding-Problems/tree/master/3011-find-if-array-can-be-sorted) |
 | [3200-maximum-height-of-a-triangle](https://github.com/Sukhman3125/Coding-Problems/tree/master/3200-maximum-height-of-a-triangle) |
 | [3380-maximum-area-rectangle-with-point-constraints-i](https://github.com/Sukhman3125/Coding-Problems/tree/master/3380-maximum-area-rectangle-with-point-constraints-i) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Sukhman3125/Coding-Problems/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Sukhman3125/Coding-Problems/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2542-maximum-subsequence-score](https://github.com/Sukhman3125/Coding-Problems/tree/master/2542-maximum-subsequence-score) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Sukhman3125/Coding-Problems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3011-find-if-array-can-be-sorted](https://github.com/Sukhman3125/Coding-Problems/tree/master/3011-find-if-array-can-be-sorted) |
 | [3380-maximum-area-rectangle-with-point-constraints-i](https://github.com/Sukhman3125/Coding-Problems/tree/master/3380-maximum-area-rectangle-with-point-constraints-i) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Sukhman3125/Coding-Problems/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3433-count-mentions-per-user](https://github.com/Sukhman3125/Coding-Problems/tree/master/3433-count-mentions-per-user) |
