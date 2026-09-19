@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1401-circle-and-rectangle-overlapping](https://github.com/Sukhman3125/Coding-Problems/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1486-xor-operation-in-an-array](https://github.com/Sukhman3125/Coding-Problems/tree/master/1486-xor-operation-in-an-array) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Sukhman3125/Coding-Problems/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/Sukhman3125/Coding-Problems/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Sukhman3125/Coding-Problems/tree/master/2769-find-the-maximum-achievable-number) |
 | [2844-minimum-operations-to-make-a-special-number](https://github.com/Sukhman3125/Coding-Problems/tree/master/2844-minimum-operations-to-make-a-special-number) |
 | [2939-maximum-xor-product](https://github.com/Sukhman3125/Coding-Problems/tree/master/2939-maximum-xor-product) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2352-equal-row-and-column-pairs](https://github.com/Sukhman3125/Coding-Problems/tree/master/2352-equal-row-and-column-pairs) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/Sukhman3125/Coding-Problems/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/Sukhman3125/Coding-Problems/tree/master/2462-total-cost-to-hire-k-workers) |
+| [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/Sukhman3125/Coding-Problems/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
 | [2542-maximum-subsequence-score](https://github.com/Sukhman3125/Coding-Problems/tree/master/2542-maximum-subsequence-score) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Sukhman3125/Coding-Problems/tree/master/2553-separate-the-digits-in-an-array) |
 | [2615-sum-of-distances](https://github.com/Sukhman3125/Coding-Problems/tree/master/2615-sum-of-distances) |
@@ -564,4 +566,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0433-minimum-genetic-mutation](https://github.com/Sukhman3125/Coding-Problems/tree/master/0433-minimum-genetic-mutation) |
+## Number Theory
+|  |
+| ------- |
+| [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/Sukhman3125/Coding-Problems/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
 <!---LeetCode Topics End-->
