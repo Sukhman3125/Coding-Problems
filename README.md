@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1219-path-with-maximum-gold](https://github.com/Sukhman3125/Coding-Problems/tree/master/1219-path-with-maximum-gold) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/Sukhman3125/Coding-Problems/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1268-search-suggestions-system](https://github.com/Sukhman3125/Coding-Problems/tree/master/1268-search-suggestions-system) |
+| [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/Sukhman3125/Coding-Problems/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sukhman3125/Coding-Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Sukhman3125/Coding-Problems/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Sukhman3125/Coding-Problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1072-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Sukhman3125/Coding-Problems/tree/master/1072-flip-columns-for-maximum-number-of-equal-rows) |
 | [1156-swap-for-longest-repeated-character-substring](https://github.com/Sukhman3125/Coding-Problems/tree/master/1156-swap-for-longest-repeated-character-substring) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/Sukhman3125/Coding-Problems/tree/master/1255-maximum-score-words-formed-by-letters) |
+| [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/Sukhman3125/Coding-Problems/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Sukhman3125/Coding-Problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Sukhman3125/Coding-Problems/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2013-detect-squares](https://github.com/Sukhman3125/Coding-Problems/tree/master/2013-detect-squares) |
@@ -347,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/Sukhman3125/Coding-Problems/tree/master/0735-asteroid-collision) |
+| [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/Sukhman3125/Coding-Problems/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Sukhman3125/Coding-Problems/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2352-equal-row-and-column-pairs](https://github.com/Sukhman3125/Coding-Problems/tree/master/2352-equal-row-and-column-pairs) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/Sukhman3125/Coding-Problems/tree/master/2462-total-cost-to-hire-k-workers) |
@@ -424,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-image-overlap](https://github.com/Sukhman3125/Coding-Problems/tree/master/0835-image-overlap) |
 | [1072-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Sukhman3125/Coding-Problems/tree/master/1072-flip-columns-for-maximum-number-of-equal-rows) |
 | [1219-path-with-maximum-gold](https://github.com/Sukhman3125/Coding-Problems/tree/master/1219-path-with-maximum-gold) |
+| [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/Sukhman3125/Coding-Problems/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sukhman3125/Coding-Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2352-equal-row-and-column-pairs](https://github.com/Sukhman3125/Coding-Problems/tree/master/2352-equal-row-and-column-pairs) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/Sukhman3125/Coding-Problems/tree/master/2373-largest-local-values-in-a-matrix) |
