@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/Sukhman3125/Coding-Problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0391-perfect-rectangle](https://github.com/Sukhman3125/Coding-Problems/tree/master/0391-perfect-rectangle) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Sukhman3125/Coding-Problems/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0492-construct-the-rectangle](https://github.com/Sukhman3125/Coding-Problems/tree/master/0492-construct-the-rectangle) |
 | [0528-random-pick-with-weight](https://github.com/Sukhman3125/Coding-Problems/tree/master/0528-random-pick-with-weight) |
 | [0836-rectangle-overlap](https://github.com/Sukhman3125/Coding-Problems/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Sukhman3125/Coding-Problems/tree/master/1401-circle-and-rectangle-overlapping) |
