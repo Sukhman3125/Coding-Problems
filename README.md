@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Sukhman3125/Coding-Problems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3011-find-if-array-can-be-sorted](https://github.com/Sukhman3125/Coding-Problems/tree/master/3011-find-if-array-can-be-sorted) |
 | [3200-maximum-height-of-a-triangle](https://github.com/Sukhman3125/Coding-Problems/tree/master/3200-maximum-height-of-a-triangle) |
+| [3265-count-almost-equal-pairs-i](https://github.com/Sukhman3125/Coding-Problems/tree/master/3265-count-almost-equal-pairs-i) |
 | [3273-minimum-amount-of-damage-dealt-to-bob](https://github.com/Sukhman3125/Coding-Problems/tree/master/3273-minimum-amount-of-damage-dealt-to-bob) |
 | [3380-maximum-area-rectangle-with-point-constraints-i](https://github.com/Sukhman3125/Coding-Problems/tree/master/3380-maximum-area-rectangle-with-point-constraints-i) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Sukhman3125/Coding-Problems/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2542-maximum-subsequence-score](https://github.com/Sukhman3125/Coding-Problems/tree/master/2542-maximum-subsequence-score) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Sukhman3125/Coding-Problems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3011-find-if-array-can-be-sorted](https://github.com/Sukhman3125/Coding-Problems/tree/master/3011-find-if-array-can-be-sorted) |
+| [3265-count-almost-equal-pairs-i](https://github.com/Sukhman3125/Coding-Problems/tree/master/3265-count-almost-equal-pairs-i) |
 | [3273-minimum-amount-of-damage-dealt-to-bob](https://github.com/Sukhman3125/Coding-Problems/tree/master/3273-minimum-amount-of-damage-dealt-to-bob) |
 | [3380-maximum-area-rectangle-with-point-constraints-i](https://github.com/Sukhman3125/Coding-Problems/tree/master/3380-maximum-area-rectangle-with-point-constraints-i) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Sukhman3125/Coding-Problems/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2352-equal-row-and-column-pairs](https://github.com/Sukhman3125/Coding-Problems/tree/master/2352-equal-row-and-column-pairs) |
 | [2615-sum-of-distances](https://github.com/Sukhman3125/Coding-Problems/tree/master/2615-sum-of-distances) |
 | [2661-first-completely-painted-row-or-column](https://github.com/Sukhman3125/Coding-Problems/tree/master/2661-first-completely-painted-row-or-column) |
+| [3265-count-almost-equal-pairs-i](https://github.com/Sukhman3125/Coding-Problems/tree/master/3265-count-almost-equal-pairs-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Sukhman3125/Coding-Problems/tree/master/3483-unique-3-digit-even-numbers) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Sukhman3125/Coding-Problems/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3588-find-maximum-area-of-a-triangle](https://github.com/Sukhman3125/Coding-Problems/tree/master/3588-find-maximum-area-of-a-triangle) |
@@ -320,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1704-determine-if-string-halves-are-alike](https://github.com/Sukhman3125/Coding-Problems/tree/master/1704-determine-if-string-halves-are-alike) |
 | [2013-detect-squares](https://github.com/Sukhman3125/Coding-Problems/tree/master/2013-detect-squares) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Sukhman3125/Coding-Problems/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
+| [3265-count-almost-equal-pairs-i](https://github.com/Sukhman3125/Coding-Problems/tree/master/3265-count-almost-equal-pairs-i) |
 | [3866-first-unique-even-element](https://github.com/Sukhman3125/Coding-Problems/tree/master/3866-first-unique-even-element) |
 | [3889-mirror-frequency-distance](https://github.com/Sukhman3125/Coding-Problems/tree/master/3889-mirror-frequency-distance) |
 ## Data Stream
@@ -380,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0845-longest-mountain-in-array](https://github.com/Sukhman3125/Coding-Problems/tree/master/0845-longest-mountain-in-array) |
 | [2844-minimum-operations-to-make-a-special-number](https://github.com/Sukhman3125/Coding-Problems/tree/master/2844-minimum-operations-to-make-a-special-number) |
 | [3200-maximum-height-of-a-triangle](https://github.com/Sukhman3125/Coding-Problems/tree/master/3200-maximum-height-of-a-triangle) |
+| [3265-count-almost-equal-pairs-i](https://github.com/Sukhman3125/Coding-Problems/tree/master/3265-count-almost-equal-pairs-i) |
 | [3380-maximum-area-rectangle-with-point-constraints-i](https://github.com/Sukhman3125/Coding-Problems/tree/master/3380-maximum-area-rectangle-with-point-constraints-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Sukhman3125/Coding-Problems/tree/master/3483-unique-3-digit-even-numbers) |
 | [3588-find-maximum-area-of-a-triangle](https://github.com/Sukhman3125/Coding-Problems/tree/master/3588-find-maximum-area-of-a-triangle) |
