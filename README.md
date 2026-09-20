@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Sukhman3125/Coding-Problems/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0492-construct-the-rectangle](https://github.com/Sukhman3125/Coding-Problems/tree/master/0492-construct-the-rectangle) |
 | [0528-random-pick-with-weight](https://github.com/Sukhman3125/Coding-Problems/tree/master/0528-random-pick-with-weight) |
+| [0556-next-greater-element-iii](https://github.com/Sukhman3125/Coding-Problems/tree/master/0556-next-greater-element-iii) |
 | [0836-rectangle-overlap](https://github.com/Sukhman3125/Coding-Problems/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Sukhman3125/Coding-Problems/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1486-xor-operation-in-an-array](https://github.com/Sukhman3125/Coding-Problems/tree/master/1486-xor-operation-in-an-array) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0434-number-of-segments-in-a-string](https://github.com/Sukhman3125/Coding-Problems/tree/master/0434-number-of-segments-in-a-string) |
 | [0443-string-compression](https://github.com/Sukhman3125/Coding-Problems/tree/master/0443-string-compression) |
 | [0468-validate-ip-address](https://github.com/Sukhman3125/Coding-Problems/tree/master/0468-validate-ip-address) |
+| [0556-next-greater-element-iii](https://github.com/Sukhman3125/Coding-Problems/tree/master/0556-next-greater-element-iii) |
 | [0649-dota2-senate](https://github.com/Sukhman3125/Coding-Problems/tree/master/0649-dota2-senate) |
 | [0686-repeated-string-match](https://github.com/Sukhman3125/Coding-Problems/tree/master/0686-repeated-string-match) |
 | [0767-reorganize-string](https://github.com/Sukhman3125/Coding-Problems/tree/master/0767-reorganize-string) |
@@ -406,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Sukhman3125/Coding-Problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Sukhman3125/Coding-Problems/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Sukhman3125/Coding-Problems/tree/master/0443-string-compression) |
+| [0556-next-greater-element-iii](https://github.com/Sukhman3125/Coding-Problems/tree/master/0556-next-greater-element-iii) |
 | [0611-valid-triangle-number](https://github.com/Sukhman3125/Coding-Problems/tree/master/0611-valid-triangle-number) |
 | [0845-longest-mountain-in-array](https://github.com/Sukhman3125/Coding-Problems/tree/master/0845-longest-mountain-in-array) |
 | [1768-merge-strings-alternately](https://github.com/Sukhman3125/Coding-Problems/tree/master/1768-merge-strings-alternately) |
