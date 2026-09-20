@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0313-super-ugly-number](https://github.com/Sukhman3125/Coding-Problems/tree/master/0313-super-ugly-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Sukhman3125/Coding-Problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0391-perfect-rectangle](https://github.com/Sukhman3125/Coding-Problems/tree/master/0391-perfect-rectangle) |
+| [0400-nth-digit](https://github.com/Sukhman3125/Coding-Problems/tree/master/0400-nth-digit) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Sukhman3125/Coding-Problems/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0492-construct-the-rectangle](https://github.com/Sukhman3125/Coding-Problems/tree/master/0492-construct-the-rectangle) |
 | [0528-random-pick-with-weight](https://github.com/Sukhman3125/Coding-Problems/tree/master/0528-random-pick-with-weight) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0275-h-index-ii](https://github.com/Sukhman3125/Coding-Problems/tree/master/0275-h-index-ii) |
 | [0278-first-bad-version](https://github.com/Sukhman3125/Coding-Problems/tree/master/0278-first-bad-version) |
 | [0354-russian-doll-envelopes](https://github.com/Sukhman3125/Coding-Problems/tree/master/0354-russian-doll-envelopes) |
+| [0400-nth-digit](https://github.com/Sukhman3125/Coding-Problems/tree/master/0400-nth-digit) |
 | [0436-find-right-interval](https://github.com/Sukhman3125/Coding-Problems/tree/master/0436-find-right-interval) |
 | [0450-delete-node-in-a-bst](https://github.com/Sukhman3125/Coding-Problems/tree/master/0450-delete-node-in-a-bst) |
 | [0528-random-pick-with-weight](https://github.com/Sukhman3125/Coding-Problems/tree/master/0528-random-pick-with-weight) |
