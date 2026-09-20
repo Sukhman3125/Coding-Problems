@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sukhman3125/Coding-Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Sukhman3125/Coding-Problems/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Sukhman3125/Coding-Problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Sukhman3125/Coding-Problems/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1539-kth-missing-positive-number](https://github.com/Sukhman3125/Coding-Problems/tree/master/1539-kth-missing-positive-number) |
 | [1664-ways-to-make-a-fair-array](https://github.com/Sukhman3125/Coding-Problems/tree/master/1664-ways-to-make-a-fair-array) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/Sukhman3125/Coding-Problems/tree/master/1673-find-the-most-competitive-subsequence) |
@@ -328,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1255-maximum-score-words-formed-by-letters](https://github.com/Sukhman3125/Coding-Problems/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Sukhman3125/Coding-Problems/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Sukhman3125/Coding-Problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Sukhman3125/Coding-Problems/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Sukhman3125/Coding-Problems/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Sukhman3125/Coding-Problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Sukhman3125/Coding-Problems/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -415,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/Sukhman3125/Coding-Problems/tree/master/0767-reorganize-string) |
 | [1328-break-a-palindrome](https://github.com/Sukhman3125/Coding-Problems/tree/master/1328-break-a-palindrome) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Sukhman3125/Coding-Problems/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Sukhman3125/Coding-Problems/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/Sukhman3125/Coding-Problems/tree/master/1673-find-the-most-competitive-subsequence) |
 | [1881-maximum-value-after-insertion](https://github.com/Sukhman3125/Coding-Problems/tree/master/1881-maximum-value-after-insertion) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Sukhman3125/Coding-Problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -493,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Sukhman3125/Coding-Problems/tree/master/0735-asteroid-collision) |
 | [0901-online-stock-span](https://github.com/Sukhman3125/Coding-Problems/tree/master/0901-online-stock-span) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Sukhman3125/Coding-Problems/tree/master/1019-next-greater-node-in-linked-list) |
+| [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Sukhman3125/Coding-Problems/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/Sukhman3125/Coding-Problems/tree/master/1673-find-the-most-competitive-subsequence) |
 ## Monotonic Stack
 |  |
@@ -500,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Sukhman3125/Coding-Problems/tree/master/0402-remove-k-digits) |
 | [0901-online-stock-span](https://github.com/Sukhman3125/Coding-Problems/tree/master/0901-online-stock-span) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Sukhman3125/Coding-Problems/tree/master/1019-next-greater-node-in-linked-list) |
+| [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Sukhman3125/Coding-Problems/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/Sukhman3125/Coding-Problems/tree/master/1673-find-the-most-competitive-subsequence) |
 ## Breadth-First Search
 |  |
