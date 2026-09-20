@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Sukhman3125/Coding-Problems/tree/master/0016-3sum-closest) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Sukhman3125/Coding-Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sukhman3125/Coding-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0274-h-index](https://github.com/Sukhman3125/Coding-Problems/tree/master/0274-h-index) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Sukhman3125/Coding-Problems/tree/master/0016-3sum-closest) |
 | [0274-h-index](https://github.com/Sukhman3125/Coding-Problems/tree/master/0274-h-index) |
 | [0354-russian-doll-envelopes](https://github.com/Sukhman3125/Coding-Problems/tree/master/0354-russian-doll-envelopes) |
 | [0435-non-overlapping-intervals](https://github.com/Sukhman3125/Coding-Problems/tree/master/0435-non-overlapping-intervals) |
@@ -383,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Sukhman3125/Coding-Problems/tree/master/0016-3sum-closest) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Sukhman3125/Coding-Problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Sukhman3125/Coding-Problems/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Sukhman3125/Coding-Problems/tree/master/0443-string-compression) |
