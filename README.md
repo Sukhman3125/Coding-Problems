@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0436-find-right-interval](https://github.com/Sukhman3125/Coding-Problems/tree/master/0436-find-right-interval) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Sukhman3125/Coding-Problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0528-random-pick-with-weight](https://github.com/Sukhman3125/Coding-Problems/tree/master/0528-random-pick-with-weight) |
+| [0565-array-nesting](https://github.com/Sukhman3125/Coding-Problems/tree/master/0565-array-nesting) |
 | [0611-valid-triangle-number](https://github.com/Sukhman3125/Coding-Problems/tree/master/0611-valid-triangle-number) |
 | [0643-maximum-average-subarray-i](https://github.com/Sukhman3125/Coding-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [0705-design-hashset](https://github.com/Sukhman3125/Coding-Problems/tree/master/0705-design-hashset) |
@@ -382,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0399-evaluate-division](https://github.com/Sukhman3125/Coding-Problems/tree/master/0399-evaluate-division) |
 | [0437-path-sum-iii](https://github.com/Sukhman3125/Coding-Problems/tree/master/0437-path-sum-iii) |
+| [0565-array-nesting](https://github.com/Sukhman3125/Coding-Problems/tree/master/0565-array-nesting) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Sukhman3125/Coding-Problems/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0814-binary-tree-pruning](https://github.com/Sukhman3125/Coding-Problems/tree/master/0814-binary-tree-pruning) |
 | [0872-leaf-similar-trees](https://github.com/Sukhman3125/Coding-Problems/tree/master/0872-leaf-similar-trees) |
