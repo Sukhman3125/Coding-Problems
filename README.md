@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0528-random-pick-with-weight](https://github.com/Sukhman3125/Coding-Problems/tree/master/0528-random-pick-with-weight) |
 | [0556-next-greater-element-iii](https://github.com/Sukhman3125/Coding-Problems/tree/master/0556-next-greater-element-iii) |
 | [0836-rectangle-overlap](https://github.com/Sukhman3125/Coding-Problems/tree/master/0836-rectangle-overlap) |
+| [1185-day-of-the-week](https://github.com/Sukhman3125/Coding-Problems/tree/master/1185-day-of-the-week) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Sukhman3125/Coding-Problems/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1486-xor-operation-in-an-array](https://github.com/Sukhman3125/Coding-Problems/tree/master/1486-xor-operation-in-an-array) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Sukhman3125/Coding-Problems/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
