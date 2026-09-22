@@ -370,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Sukhman3125/Coding-Problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Sukhman3125/Coding-Problems/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Sukhman3125/Coding-Problems/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/Sukhman3125/Coding-Problems/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Sukhman3125/Coding-Problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Sukhman3125/Coding-Problems/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3524-find-x-value-of-array-i](https://github.com/Sukhman3125/Coding-Problems/tree/master/3524-find-x-value-of-array-i) |
@@ -544,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/Sukhman3125/Coding-Problems/tree/master/0767-reorganize-string) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Sukhman3125/Coding-Problems/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1268-search-suggestions-system](https://github.com/Sukhman3125/Coding-Problems/tree/master/1268-search-suggestions-system) |
+| [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/Sukhman3125/Coding-Problems/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
 | [1834-single-threaded-cpu](https://github.com/Sukhman3125/Coding-Problems/tree/master/1834-single-threaded-cpu) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/Sukhman3125/Coding-Problems/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2542-maximum-subsequence-score](https://github.com/Sukhman3125/Coding-Problems/tree/master/2542-maximum-subsequence-score) |
@@ -588,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0399-evaluate-division](https://github.com/Sukhman3125/Coding-Problems/tree/master/0399-evaluate-division) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Sukhman3125/Coding-Problems/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/Sukhman3125/Coding-Problems/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
 | [3528-unit-conversion-i](https://github.com/Sukhman3125/Coding-Problems/tree/master/3528-unit-conversion-i) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Sukhman3125/Coding-Problems/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Shortest Path
@@ -595,6 +598,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0399-evaluate-division](https://github.com/Sukhman3125/Coding-Problems/tree/master/0399-evaluate-division) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Sukhman3125/Coding-Problems/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/Sukhman3125/Coding-Problems/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Sukhman3125/Coding-Problems/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Bellman–Ford Algorithm
 |  |
@@ -682,4 +686,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0894-all-possible-full-binary-trees](https://github.com/Sukhman3125/Coding-Problems/tree/master/0894-all-possible-full-binary-trees) |
+## Topological Sort
+|  |
+| ------- |
+| [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/Sukhman3125/Coding-Problems/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/Sukhman3125/Coding-Problems/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
 <!---LeetCode Topics End-->
