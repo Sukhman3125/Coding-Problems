@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Sukhman3125/Coding-Problems/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/Sukhman3125/Coding-Problems/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/Sukhman3125/Coding-Problems/tree/master/0450-delete-node-in-a-bst) |
+| [0538-convert-bst-to-greater-tree](https://github.com/Sukhman3125/Coding-Problems/tree/master/0538-convert-bst-to-greater-tree) |
 | [0814-binary-tree-pruning](https://github.com/Sukhman3125/Coding-Problems/tree/master/0814-binary-tree-pruning) |
 | [0872-leaf-similar-trees](https://github.com/Sukhman3125/Coding-Problems/tree/master/0872-leaf-similar-trees) |
 | [0894-all-possible-full-binary-trees](https://github.com/Sukhman3125/Coding-Problems/tree/master/0894-all-possible-full-binary-trees) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0436-find-right-interval](https://github.com/Sukhman3125/Coding-Problems/tree/master/0436-find-right-interval) |
 | [0450-delete-node-in-a-bst](https://github.com/Sukhman3125/Coding-Problems/tree/master/0450-delete-node-in-a-bst) |
 | [0528-random-pick-with-weight](https://github.com/Sukhman3125/Coding-Problems/tree/master/0528-random-pick-with-weight) |
+| [0538-convert-bst-to-greater-tree](https://github.com/Sukhman3125/Coding-Problems/tree/master/0538-convert-bst-to-greater-tree) |
 | [0611-valid-triangle-number](https://github.com/Sukhman3125/Coding-Problems/tree/master/0611-valid-triangle-number) |
 | [0713-subarray-product-less-than-k](https://github.com/Sukhman3125/Coding-Problems/tree/master/0713-subarray-product-less-than-k) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Sukhman3125/Coding-Problems/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Sukhman3125/Coding-Problems/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/Sukhman3125/Coding-Problems/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/Sukhman3125/Coding-Problems/tree/master/0450-delete-node-in-a-bst) |
+| [0538-convert-bst-to-greater-tree](https://github.com/Sukhman3125/Coding-Problems/tree/master/0538-convert-bst-to-greater-tree) |
 | [0814-binary-tree-pruning](https://github.com/Sukhman3125/Coding-Problems/tree/master/0814-binary-tree-pruning) |
 | [0872-leaf-similar-trees](https://github.com/Sukhman3125/Coding-Problems/tree/master/0872-leaf-similar-trees) |
 | [0894-all-possible-full-binary-trees](https://github.com/Sukhman3125/Coding-Problems/tree/master/0894-all-possible-full-binary-trees) |
@@ -390,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0399-evaluate-division](https://github.com/Sukhman3125/Coding-Problems/tree/master/0399-evaluate-division) |
 | [0437-path-sum-iii](https://github.com/Sukhman3125/Coding-Problems/tree/master/0437-path-sum-iii) |
+| [0538-convert-bst-to-greater-tree](https://github.com/Sukhman3125/Coding-Problems/tree/master/0538-convert-bst-to-greater-tree) |
 | [0565-array-nesting](https://github.com/Sukhman3125/Coding-Problems/tree/master/0565-array-nesting) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Sukhman3125/Coding-Problems/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0814-binary-tree-pruning](https://github.com/Sukhman3125/Coding-Problems/tree/master/0814-binary-tree-pruning) |
