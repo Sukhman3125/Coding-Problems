@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0313-super-ugly-number](https://github.com/Sukhman3125/Coding-Problems/tree/master/0313-super-ugly-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/Sukhman3125/Coding-Problems/tree/master/0334-increasing-triplet-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/Sukhman3125/Coding-Problems/tree/master/0354-russian-doll-envelopes) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Sukhman3125/Coding-Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Sukhman3125/Coding-Problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0391-perfect-rectangle](https://github.com/Sukhman3125/Coding-Problems/tree/master/0391-perfect-rectangle) |
 | [0393-utf-8-validation](https://github.com/Sukhman3125/Coding-Problems/tree/master/0393-utf-8-validation) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0275-h-index-ii](https://github.com/Sukhman3125/Coding-Problems/tree/master/0275-h-index-ii) |
 | [0278-first-bad-version](https://github.com/Sukhman3125/Coding-Problems/tree/master/0278-first-bad-version) |
 | [0354-russian-doll-envelopes](https://github.com/Sukhman3125/Coding-Problems/tree/master/0354-russian-doll-envelopes) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Sukhman3125/Coding-Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0400-nth-digit](https://github.com/Sukhman3125/Coding-Problems/tree/master/0400-nth-digit) |
 | [0436-find-right-interval](https://github.com/Sukhman3125/Coding-Problems/tree/master/0436-find-right-interval) |
 | [0450-delete-node-in-a-bst](https://github.com/Sukhman3125/Coding-Problems/tree/master/0450-delete-node-in-a-bst) |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/Sukhman3125/Coding-Problems/tree/master/0274-h-index) |
 | [0295-find-median-from-data-stream](https://github.com/Sukhman3125/Coding-Problems/tree/master/0295-find-median-from-data-stream) |
 | [0354-russian-doll-envelopes](https://github.com/Sukhman3125/Coding-Problems/tree/master/0354-russian-doll-envelopes) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Sukhman3125/Coding-Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0435-non-overlapping-intervals](https://github.com/Sukhman3125/Coding-Problems/tree/master/0435-non-overlapping-intervals) |
 | [0436-find-right-interval](https://github.com/Sukhman3125/Coding-Problems/tree/master/0436-find-right-interval) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Sukhman3125/Coding-Problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -490,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/Sukhman3125/Coding-Problems/tree/master/0304-range-sum-query-2d-immutable) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Sukhman3125/Coding-Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0835-image-overlap](https://github.com/Sukhman3125/Coding-Problems/tree/master/0835-image-overlap) |
 | [1072-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Sukhman3125/Coding-Problems/tree/master/1072-flip-columns-for-maximum-number-of-equal-rows) |
 | [1219-path-with-maximum-gold](https://github.com/Sukhman3125/Coding-Problems/tree/master/1219-path-with-maximum-gold) |
@@ -518,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Sukhman3125/Coding-Problems/tree/master/0295-find-median-from-data-stream) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Sukhman3125/Coding-Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0767-reorganize-string](https://github.com/Sukhman3125/Coding-Problems/tree/master/0767-reorganize-string) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Sukhman3125/Coding-Problems/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1268-search-suggestions-system](https://github.com/Sukhman3125/Coding-Problems/tree/master/1268-search-suggestions-system) |
