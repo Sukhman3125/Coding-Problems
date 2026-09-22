@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Sukhman3125/Coding-Problems/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3588-find-maximum-area-of-a-triangle](https://github.com/Sukhman3125/Coding-Problems/tree/master/3588-find-maximum-area-of-a-triangle) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Sukhman3125/Coding-Problems/tree/master/3634-minimum-removals-to-balance-array) |
+| [3728-stable-subarrays-with-equal-boundary-and-interior-sum](https://github.com/Sukhman3125/Coding-Problems/tree/master/3728-stable-subarrays-with-equal-boundary-and-interior-sum) |
 | [3840-house-robber-v](https://github.com/Sukhman3125/Coding-Problems/tree/master/3840-house-robber-v) |
 | [3866-first-unique-even-element](https://github.com/Sukhman3125/Coding-Problems/tree/master/3866-first-unique-even-element) |
 | [3885-design-event-manager](https://github.com/Sukhman3125/Coding-Problems/tree/master/3885-design-event-manager) |
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-unique-3-digit-even-numbers](https://github.com/Sukhman3125/Coding-Problems/tree/master/3483-unique-3-digit-even-numbers) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Sukhman3125/Coding-Problems/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3588-find-maximum-area-of-a-triangle](https://github.com/Sukhman3125/Coding-Problems/tree/master/3588-find-maximum-area-of-a-triangle) |
+| [3728-stable-subarrays-with-equal-boundary-and-interior-sum](https://github.com/Sukhman3125/Coding-Problems/tree/master/3728-stable-subarrays-with-equal-boundary-and-interior-sum) |
 | [3866-first-unique-even-element](https://github.com/Sukhman3125/Coding-Problems/tree/master/3866-first-unique-even-element) |
 | [3885-design-event-manager](https://github.com/Sukhman3125/Coding-Problems/tree/master/3885-design-event-manager) |
 | [3889-mirror-frequency-distance](https://github.com/Sukhman3125/Coding-Problems/tree/master/3889-mirror-frequency-distance) |
@@ -495,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2536-increment-submatrices-by-one](https://github.com/Sukhman3125/Coding-Problems/tree/master/2536-increment-submatrices-by-one) |
 | [2615-sum-of-distances](https://github.com/Sukhman3125/Coding-Problems/tree/master/2615-sum-of-distances) |
 | [3413-maximum-coins-from-k-consecutive-bags](https://github.com/Sukhman3125/Coding-Problems/tree/master/3413-maximum-coins-from-k-consecutive-bags) |
+| [3728-stable-subarrays-with-equal-boundary-and-interior-sum](https://github.com/Sukhman3125/Coding-Problems/tree/master/3728-stable-subarrays-with-equal-boundary-and-interior-sum) |
 ## Matrix
 |  |
 | ------- |
