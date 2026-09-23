@@ -11,15 +11,16 @@ public:
                 }
             }
             if(!valid) continue;
+            
+            int achieved = 0;
             for(int j=0;j<3;j++){
                 if(triplets[i][j] == target[j]){
                     maxAchieved[j] = true; 
                 }
+                if(maxAchieved[j]) achieved++;
             }
+            if(achieved==3) return true;
         }
-        for(auto ach:maxAchieved){
-            if(!ach) return false;
-        }
-        return true;
+        return false;
     }
 };
