@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2769-find-the-maximum-achievable-number](https://github.com/Sukhman3125/Coding-Problems/tree/master/2769-find-the-maximum-achievable-number) |
 | [2844-minimum-operations-to-make-a-special-number](https://github.com/Sukhman3125/Coding-Problems/tree/master/2844-minimum-operations-to-make-a-special-number) |
 | [2939-maximum-xor-product](https://github.com/Sukhman3125/Coding-Problems/tree/master/2939-maximum-xor-product) |
+| [3153-sum-of-digit-differences-of-all-pairs](https://github.com/Sukhman3125/Coding-Problems/tree/master/3153-sum-of-digit-differences-of-all-pairs) |
 | [3380-maximum-area-rectangle-with-point-constraints-i](https://github.com/Sukhman3125/Coding-Problems/tree/master/3380-maximum-area-rectangle-with-point-constraints-i) |
 | [3433-count-mentions-per-user](https://github.com/Sukhman3125/Coding-Problems/tree/master/3433-count-mentions-per-user) |
 | [3524-find-x-value-of-array-i](https://github.com/Sukhman3125/Coding-Problems/tree/master/3524-find-x-value-of-array-i) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2798-number-of-employees-who-met-the-target](https://github.com/Sukhman3125/Coding-Problems/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Sukhman3125/Coding-Problems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3011-find-if-array-can-be-sorted](https://github.com/Sukhman3125/Coding-Problems/tree/master/3011-find-if-array-can-be-sorted) |
+| [3153-sum-of-digit-differences-of-all-pairs](https://github.com/Sukhman3125/Coding-Problems/tree/master/3153-sum-of-digit-differences-of-all-pairs) |
 | [3200-maximum-height-of-a-triangle](https://github.com/Sukhman3125/Coding-Problems/tree/master/3200-maximum-height-of-a-triangle) |
 | [3265-count-almost-equal-pairs-i](https://github.com/Sukhman3125/Coding-Problems/tree/master/3265-count-almost-equal-pairs-i) |
 | [3273-minimum-amount-of-damage-dealt-to-bob](https://github.com/Sukhman3125/Coding-Problems/tree/master/3273-minimum-amount-of-damage-dealt-to-bob) |
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2615-sum-of-distances](https://github.com/Sukhman3125/Coding-Problems/tree/master/2615-sum-of-distances) |
 | [2661-first-completely-painted-row-or-column](https://github.com/Sukhman3125/Coding-Problems/tree/master/2661-first-completely-painted-row-or-column) |
 | [2768-number-of-black-blocks](https://github.com/Sukhman3125/Coding-Problems/tree/master/2768-number-of-black-blocks) |
+| [3153-sum-of-digit-differences-of-all-pairs](https://github.com/Sukhman3125/Coding-Problems/tree/master/3153-sum-of-digit-differences-of-all-pairs) |
 | [3265-count-almost-equal-pairs-i](https://github.com/Sukhman3125/Coding-Problems/tree/master/3265-count-almost-equal-pairs-i) |
 | [3371-identify-the-largest-outlier-in-an-array](https://github.com/Sukhman3125/Coding-Problems/tree/master/3371-identify-the-largest-outlier-in-an-array) |
 | [3434-maximum-frequency-after-subarray-operation](https://github.com/Sukhman3125/Coding-Problems/tree/master/3434-maximum-frequency-after-subarray-operation) |
@@ -373,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1704-determine-if-string-halves-are-alike](https://github.com/Sukhman3125/Coding-Problems/tree/master/1704-determine-if-string-halves-are-alike) |
 | [2013-detect-squares](https://github.com/Sukhman3125/Coding-Problems/tree/master/2013-detect-squares) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Sukhman3125/Coding-Problems/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
+| [3153-sum-of-digit-differences-of-all-pairs](https://github.com/Sukhman3125/Coding-Problems/tree/master/3153-sum-of-digit-differences-of-all-pairs) |
 | [3265-count-almost-equal-pairs-i](https://github.com/Sukhman3125/Coding-Problems/tree/master/3265-count-almost-equal-pairs-i) |
 | [3371-identify-the-largest-outlier-in-an-array](https://github.com/Sukhman3125/Coding-Problems/tree/master/3371-identify-the-largest-outlier-in-an-array) |
 | [3866-first-unique-even-element](https://github.com/Sukhman3125/Coding-Problems/tree/master/3866-first-unique-even-element) |
