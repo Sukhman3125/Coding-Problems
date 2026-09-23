@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3637-trionic-array-i](https://github.com/Sukhman3125/Coding-Problems/tree/master/3637-trionic-array-i) |
 | [3638-maximum-balanced-shipments](https://github.com/Sukhman3125/Coding-Problems/tree/master/3638-maximum-balanced-shipments) |
 | [3728-stable-subarrays-with-equal-boundary-and-interior-sum](https://github.com/Sukhman3125/Coding-Problems/tree/master/3728-stable-subarrays-with-equal-boundary-and-interior-sum) |
+| [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/Sukhman3125/Coding-Problems/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
 | [3840-house-robber-v](https://github.com/Sukhman3125/Coding-Problems/tree/master/3840-house-robber-v) |
 | [3866-first-unique-even-element](https://github.com/Sukhman3125/Coding-Problems/tree/master/3866-first-unique-even-element) |
 | [3885-design-event-manager](https://github.com/Sukhman3125/Coding-Problems/tree/master/3885-design-event-manager) |
@@ -336,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Sukhman3125/Coding-Problems/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3588-find-maximum-area-of-a-triangle](https://github.com/Sukhman3125/Coding-Problems/tree/master/3588-find-maximum-area-of-a-triangle) |
 | [3728-stable-subarrays-with-equal-boundary-and-interior-sum](https://github.com/Sukhman3125/Coding-Problems/tree/master/3728-stable-subarrays-with-equal-boundary-and-interior-sum) |
+| [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/Sukhman3125/Coding-Problems/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
 | [3866-first-unique-even-element](https://github.com/Sukhman3125/Coding-Problems/tree/master/3866-first-unique-even-element) |
 | [3885-design-event-manager](https://github.com/Sukhman3125/Coding-Problems/tree/master/3885-design-event-manager) |
 | [3889-mirror-frequency-distance](https://github.com/Sukhman3125/Coding-Problems/tree/master/3889-mirror-frequency-distance) |
@@ -527,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Sukhman3125/Coding-Problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3413-maximum-coins-from-k-consecutive-bags](https://github.com/Sukhman3125/Coding-Problems/tree/master/3413-maximum-coins-from-k-consecutive-bags) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Sukhman3125/Coding-Problems/tree/master/3634-minimum-removals-to-balance-array) |
+| [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/Sukhman3125/Coding-Problems/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
 ## Prefix Sum
 |  |
 | ------- |
