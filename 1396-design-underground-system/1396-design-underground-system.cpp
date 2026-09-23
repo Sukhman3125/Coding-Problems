@@ -5,23 +5,23 @@ private:
     unordered_map<int, pair<string, int>> checkInData;
     // first is station name and second is the time
 
-    string hash(string& a, string& b){
+    string mergeKeys(const string& a, const string& b){
         return a + "_" + b;
     }
 public:
-    void checkIn(int id, string startStation, int t) {
+    void checkIn(int id, const string& startStation, int t) {
         checkInData[id] = {startStation, t};
     }
     
-    void checkOut(int id, string endStation, int t) {
-        auto& [startStation, t0] = checkInData[id];
-        auto& [total, samples] = avg[hash(startStation, endStation)];
+    void checkOut(int id, const string& endStation, int t) {
+        const auto& [startStation, t0] = checkInData[id];
+        auto& [total, samples] = avg[mergeKeys(startStation, endStation)];
         total += t-t0;
         samples++;
     }
     
-    double getAverageTime(string startStation, string endStation) {
-        auto& [total, samples] = avg[hash(startStation, endStation)];
+    double getAverageTime(const string& startStation, const string& endStation) {
+        const auto& [total, samples] = avg[mergeKeys(startStation, endStation)];
         return total/(1.0 * samples);
     }
 };
