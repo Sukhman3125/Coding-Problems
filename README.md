@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Sukhman3125/Coding-Problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Sukhman3125/Coding-Problems/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1539-kth-missing-positive-number](https://github.com/Sukhman3125/Coding-Problems/tree/master/1539-kth-missing-positive-number) |
+| [1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/Sukhman3125/Coding-Problems/tree/master/1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Sukhman3125/Coding-Problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1664-ways-to-make-a-fair-array](https://github.com/Sukhman3125/Coding-Problems/tree/master/1664-ways-to-make-a-fair-array) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/Sukhman3125/Coding-Problems/tree/master/1673-find-the-most-competitive-subsequence) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1396-design-underground-system](https://github.com/Sukhman3125/Coding-Problems/tree/master/1396-design-underground-system) |
 | [1446-consecutive-characters](https://github.com/Sukhman3125/Coding-Problems/tree/master/1446-consecutive-characters) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Sukhman3125/Coding-Problems/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/Sukhman3125/Coding-Problems/tree/master/1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Sukhman3125/Coding-Problems/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1768-merge-strings-alternately](https://github.com/Sukhman3125/Coding-Problems/tree/master/1768-merge-strings-alternately) |
 | [1881-maximum-value-after-insertion](https://github.com/Sukhman3125/Coding-Problems/tree/master/1881-maximum-value-after-insertion) |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0937-reorder-data-in-log-files](https://github.com/Sukhman3125/Coding-Problems/tree/master/0937-reorder-data-in-log-files) |
 | [1268-search-suggestions-system](https://github.com/Sukhman3125/Coding-Problems/tree/master/1268-search-suggestions-system) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Sukhman3125/Coding-Problems/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/Sukhman3125/Coding-Problems/tree/master/1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
 | [1834-single-threaded-cpu](https://github.com/Sukhman3125/Coding-Problems/tree/master/1834-single-threaded-cpu) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Sukhman3125/Coding-Problems/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2542-maximum-subsequence-score](https://github.com/Sukhman3125/Coding-Problems/tree/master/2542-maximum-subsequence-score) |
@@ -323,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Sukhman3125/Coding-Problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/Sukhman3125/Coding-Problems/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Sukhman3125/Coding-Problems/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/Sukhman3125/Coding-Problems/tree/master/1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Sukhman3125/Coding-Problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2013-detect-squares](https://github.com/Sukhman3125/Coding-Problems/tree/master/2013-detect-squares) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Sukhman3125/Coding-Problems/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
