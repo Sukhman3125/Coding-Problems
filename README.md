@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Sukhman3125/Coding-Problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Sukhman3125/Coding-Problems/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1539-kth-missing-positive-number](https://github.com/Sukhman3125/Coding-Problems/tree/master/1539-kth-missing-positive-number) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Sukhman3125/Coding-Problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1664-ways-to-make-a-fair-array](https://github.com/Sukhman3125/Coding-Problems/tree/master/1664-ways-to-make-a-fair-array) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/Sukhman3125/Coding-Problems/tree/master/1673-find-the-most-competitive-subsequence) |
 | [1834-single-threaded-cpu](https://github.com/Sukhman3125/Coding-Problems/tree/master/1834-single-threaded-cpu) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sukhman3125/Coding-Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Sukhman3125/Coding-Problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1539-kth-missing-positive-number](https://github.com/Sukhman3125/Coding-Problems/tree/master/1539-kth-missing-positive-number) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Sukhman3125/Coding-Problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Sukhman3125/Coding-Problems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3413-maximum-coins-from-k-consecutive-bags](https://github.com/Sukhman3125/Coding-Problems/tree/master/3413-maximum-coins-from-k-consecutive-bags) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Sukhman3125/Coding-Problems/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -316,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Sukhman3125/Coding-Problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/Sukhman3125/Coding-Problems/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Sukhman3125/Coding-Problems/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Sukhman3125/Coding-Problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2013-detect-squares](https://github.com/Sukhman3125/Coding-Problems/tree/master/2013-detect-squares) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Sukhman3125/Coding-Problems/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2121-intervals-between-identical-elements](https://github.com/Sukhman3125/Coding-Problems/tree/master/2121-intervals-between-identical-elements) |
@@ -512,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Sukhman3125/Coding-Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1156-swap-for-longest-repeated-character-substring](https://github.com/Sukhman3125/Coding-Problems/tree/master/1156-swap-for-longest-repeated-character-substring) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Sukhman3125/Coding-Problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Sukhman3125/Coding-Problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3413-maximum-coins-from-k-consecutive-bags](https://github.com/Sukhman3125/Coding-Problems/tree/master/3413-maximum-coins-from-k-consecutive-bags) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Sukhman3125/Coding-Problems/tree/master/3634-minimum-removals-to-balance-array) |
 ## Prefix Sum
@@ -522,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/Sukhman3125/Coding-Problems/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Sukhman3125/Coding-Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Sukhman3125/Coding-Problems/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Sukhman3125/Coding-Problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1664-ways-to-make-a-fair-array](https://github.com/Sukhman3125/Coding-Problems/tree/master/1664-ways-to-make-a-fair-array) |
 | [2121-intervals-between-identical-elements](https://github.com/Sukhman3125/Coding-Problems/tree/master/2121-intervals-between-identical-elements) |
 | [2536-increment-submatrices-by-one](https://github.com/Sukhman3125/Coding-Problems/tree/master/2536-increment-submatrices-by-one) |
