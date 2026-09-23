@@ -37,7 +37,7 @@ class Solution {
                 if(curr->left) next2.push(curr->left);
                 if(curr->right) next2.push(curr->right);
             }
-            if(!f.empty()) return false;
+
             q1 = next1;
             q2 = next2;
         }
