@@ -51,11 +51,9 @@ Since the node values at level 1 are not anagrams, the answer is false.
 
 ---
 
-### 💡 Solution Approach
-
-The complete execution code can be found in the solution file. It uses an optimized approach to solve the problem efficiently.
+### 💡 Solution File
 
 👉 **View Solution:** [`solution.cpp`](./solution.cpp)
 
 ---
-<sub>*Automated repository update.*</sub>
+<sub>*Synced automatically with [GFG Sync](https://github.com/)*</sub>
