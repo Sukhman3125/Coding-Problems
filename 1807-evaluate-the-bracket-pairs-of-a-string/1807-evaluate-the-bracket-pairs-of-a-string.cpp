@@ -9,16 +9,17 @@ private:
         return this->next[ch - 'a']; 
     }
 public:
-    void insert(string key, int idx){
+    void insert(const string& key, int idx){
         Trie* temp = this;
         for(char ch:key){
+            
             if(!temp->get(ch)) temp->put(ch);
             temp = temp->get(ch);
         }
         temp->idx = idx;
     }
 
-    int valIdx(string word){
+    int valIdx(const string& word){
         Trie* temp = this;
         for(char ch: word){
             if(!temp->get(ch)) return -1;
