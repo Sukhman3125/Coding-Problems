@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2121-intervals-between-identical-elements](https://github.com/Sukhman3125/Coding-Problems/tree/master/2121-intervals-between-identical-elements) |
 | [2352-equal-row-and-column-pairs](https://github.com/Sukhman3125/Coding-Problems/tree/master/2352-equal-row-and-column-pairs) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/Sukhman3125/Coding-Problems/tree/master/2373-largest-local-values-in-a-matrix) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Sukhman3125/Coding-Problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/Sukhman3125/Coding-Problems/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/Sukhman3125/Coding-Problems/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
 | [2498-frog-jump-ii](https://github.com/Sukhman3125/Coding-Problems/tree/master/2498-frog-jump-ii) |
@@ -377,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Sukhman3125/Coding-Problems/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2121-intervals-between-identical-elements](https://github.com/Sukhman3125/Coding-Problems/tree/master/2121-intervals-between-identical-elements) |
 | [2352-equal-row-and-column-pairs](https://github.com/Sukhman3125/Coding-Problems/tree/master/2352-equal-row-and-column-pairs) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Sukhman3125/Coding-Problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2615-sum-of-distances](https://github.com/Sukhman3125/Coding-Problems/tree/master/2615-sum-of-distances) |
 | [2661-first-completely-painted-row-or-column](https://github.com/Sukhman3125/Coding-Problems/tree/master/2661-first-completely-painted-row-or-column) |
 | [2768-number-of-black-blocks](https://github.com/Sukhman3125/Coding-Problems/tree/master/2768-number-of-black-blocks) |
@@ -600,6 +602,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Sukhman3125/Coding-Problems/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Sukhman3125/Coding-Problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Sukhman3125/Coding-Problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Sukhman3125/Coding-Problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3413-maximum-coins-from-k-consecutive-bags](https://github.com/Sukhman3125/Coding-Problems/tree/master/3413-maximum-coins-from-k-consecutive-bags) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Sukhman3125/Coding-Problems/tree/master/3634-minimum-removals-to-balance-array) |
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/Sukhman3125/Coding-Problems/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
