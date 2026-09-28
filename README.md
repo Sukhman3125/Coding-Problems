@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0845-longest-mountain-in-array](https://github.com/Sukhman3125/Coding-Problems/tree/master/0845-longest-mountain-in-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Sukhman3125/Coding-Problems/tree/master/0918-maximum-sum-circular-subarray) |
 | [0937-reorder-data-in-log-files](https://github.com/Sukhman3125/Coding-Problems/tree/master/0937-reorder-data-in-log-files) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/Sukhman3125/Coding-Problems/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1004-max-consecutive-ones-iii](https://github.com/Sukhman3125/Coding-Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Sukhman3125/Coding-Problems/tree/master/1019-next-greater-node-in-linked-list) |
 | [1072-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Sukhman3125/Coding-Problems/tree/master/1072-flip-columns-for-maximum-number-of-equal-rows) |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/Sukhman3125/Coding-Problems/tree/master/0611-valid-triangle-number) |
 | [0767-reorganize-string](https://github.com/Sukhman3125/Coding-Problems/tree/master/0767-reorganize-string) |
 | [0937-reorder-data-in-log-files](https://github.com/Sukhman3125/Coding-Problems/tree/master/0937-reorder-data-in-log-files) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/Sukhman3125/Coding-Problems/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1096-brace-expansion-ii](https://github.com/Sukhman3125/Coding-Problems/tree/master/1096-brace-expansion-ii) |
 | [1187-make-array-strictly-increasing](https://github.com/Sukhman3125/Coding-Problems/tree/master/1187-make-array-strictly-increasing) |
 | [1268-search-suggestions-system](https://github.com/Sukhman3125/Coding-Problems/tree/master/1268-search-suggestions-system) |
@@ -495,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/Sukhman3125/Coding-Problems/tree/master/0735-asteroid-collision) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/Sukhman3125/Coding-Problems/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/Sukhman3125/Coding-Problems/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Sukhman3125/Coding-Problems/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2352-equal-row-and-column-pairs](https://github.com/Sukhman3125/Coding-Problems/tree/master/2352-equal-row-and-column-pairs) |
@@ -614,6 +617,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0649-dota2-senate](https://github.com/Sukhman3125/Coding-Problems/tree/master/0649-dota2-senate) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Sukhman3125/Coding-Problems/tree/master/0918-maximum-sum-circular-subarray) |
 | [0933-number-of-recent-calls](https://github.com/Sukhman3125/Coding-Problems/tree/master/0933-number-of-recent-calls) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/Sukhman3125/Coding-Problems/tree/master/0950-reveal-cards-in-increasing-order) |
 ## DP on Trees
 |  |
 | ------- |
