@@ -311,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/Sukhman3125/Coding-Problems/tree/master/3746-minimum-string-length-after-balanced-removals) |
 | [3781-maximum-score-after-binary-swaps](https://github.com/Sukhman3125/Coding-Problems/tree/master/3781-maximum-score-after-binary-swaps) |
 | [3889-mirror-frequency-distance](https://github.com/Sukhman3125/Coding-Problems/tree/master/3889-mirror-frequency-distance) |
+| [3913-sort-vowels-by-frequency](https://github.com/Sukhman3125/Coding-Problems/tree/master/3913-sort-vowels-by-frequency) |
 ## Sorting
 |  |
 | ------- |
@@ -346,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3433-count-mentions-per-user](https://github.com/Sukhman3125/Coding-Problems/tree/master/3433-count-mentions-per-user) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Sukhman3125/Coding-Problems/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Sukhman3125/Coding-Problems/tree/master/3634-minimum-removals-to-balance-array) |
+| [3913-sort-vowels-by-frequency](https://github.com/Sukhman3125/Coding-Problems/tree/master/3913-sort-vowels-by-frequency) |
 ## Quicksort
 |  |
 | ------- |
@@ -425,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/Sukhman3125/Coding-Problems/tree/master/3746-minimum-string-length-after-balanced-removals) |
 | [3866-first-unique-even-element](https://github.com/Sukhman3125/Coding-Problems/tree/master/3866-first-unique-even-element) |
 | [3889-mirror-frequency-distance](https://github.com/Sukhman3125/Coding-Problems/tree/master/3889-mirror-frequency-distance) |
+| [3913-sort-vowels-by-frequency](https://github.com/Sukhman3125/Coding-Problems/tree/master/3913-sort-vowels-by-frequency) |
 ## Data Stream
 |  |
 | ------- |
