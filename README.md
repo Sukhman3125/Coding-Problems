@@ -295,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Sukhman3125/Coding-Problems/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1881-maximum-value-after-insertion](https://github.com/Sukhman3125/Coding-Problems/tree/master/1881-maximum-value-after-insertion) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Sukhman3125/Coding-Problems/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
+| [2337-move-pieces-to-obtain-a-string](https://github.com/Sukhman3125/Coding-Problems/tree/master/2337-move-pieces-to-obtain-a-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Sukhman3125/Coding-Problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2810-faulty-keyboard](https://github.com/Sukhman3125/Coding-Problems/tree/master/2810-faulty-keyboard) |
 | [2844-minimum-operations-to-make-a-special-number](https://github.com/Sukhman3125/Coding-Problems/tree/master/2844-minimum-operations-to-make-a-special-number) |
@@ -542,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0845-longest-mountain-in-array](https://github.com/Sukhman3125/Coding-Problems/tree/master/0845-longest-mountain-in-array) |
 | [0925-long-pressed-name](https://github.com/Sukhman3125/Coding-Problems/tree/master/0925-long-pressed-name) |
 | [1768-merge-strings-alternately](https://github.com/Sukhman3125/Coding-Problems/tree/master/1768-merge-strings-alternately) |
+| [2337-move-pieces-to-obtain-a-string](https://github.com/Sukhman3125/Coding-Problems/tree/master/2337-move-pieces-to-obtain-a-string) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/Sukhman3125/Coding-Problems/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Sukhman3125/Coding-Problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Sukhman3125/Coding-Problems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
