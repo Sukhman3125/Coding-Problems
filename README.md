@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-separate-the-digits-in-an-array](https://github.com/Sukhman3125/Coding-Problems/tree/master/2553-separate-the-digits-in-an-array) |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/Sukhman3125/Coding-Problems/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 | [2615-sum-of-distances](https://github.com/Sukhman3125/Coding-Problems/tree/master/2615-sum-of-distances) |
+| [2660-determine-the-winner-of-a-bowling-game](https://github.com/Sukhman3125/Coding-Problems/tree/master/2660-determine-the-winner-of-a-bowling-game) |
 | [2661-first-completely-painted-row-or-column](https://github.com/Sukhman3125/Coding-Problems/tree/master/2661-first-completely-painted-row-or-column) |
 | [2768-number-of-black-blocks](https://github.com/Sukhman3125/Coding-Problems/tree/master/2768-number-of-black-blocks) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Sukhman3125/Coding-Problems/tree/master/2798-number-of-employees-who-met-the-target) |
@@ -503,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2352-equal-row-and-column-pairs](https://github.com/Sukhman3125/Coding-Problems/tree/master/2352-equal-row-and-column-pairs) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/Sukhman3125/Coding-Problems/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Sukhman3125/Coding-Problems/tree/master/2553-separate-the-digits-in-an-array) |
+| [2660-determine-the-winner-of-a-bowling-game](https://github.com/Sukhman3125/Coding-Problems/tree/master/2660-determine-the-winner-of-a-bowling-game) |
 | [2810-faulty-keyboard](https://github.com/Sukhman3125/Coding-Problems/tree/master/2810-faulty-keyboard) |
 | [3433-count-mentions-per-user](https://github.com/Sukhman3125/Coding-Problems/tree/master/3433-count-mentions-per-user) |
 ## Backtracking
