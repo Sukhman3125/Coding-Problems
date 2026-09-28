@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Sukhman3125/Coding-Problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1664-ways-to-make-a-fair-array](https://github.com/Sukhman3125/Coding-Problems/tree/master/1664-ways-to-make-a-fair-array) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/Sukhman3125/Coding-Problems/tree/master/1673-find-the-most-competitive-subsequence) |
+| [1705-maximum-number-of-eaten-apples](https://github.com/Sukhman3125/Coding-Problems/tree/master/1705-maximum-number-of-eaten-apples) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Sukhman3125/Coding-Problems/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1834-single-threaded-cpu](https://github.com/Sukhman3125/Coding-Problems/tree/master/1834-single-threaded-cpu) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/Sukhman3125/Coding-Problems/tree/master/1899-merge-triplets-to-form-target-triplet) |
@@ -568,6 +569,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Sukhman3125/Coding-Problems/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Sukhman3125/Coding-Problems/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/Sukhman3125/Coding-Problems/tree/master/1673-find-the-most-competitive-subsequence) |
+| [1705-maximum-number-of-eaten-apples](https://github.com/Sukhman3125/Coding-Problems/tree/master/1705-maximum-number-of-eaten-apples) |
 | [1881-maximum-value-after-insertion](https://github.com/Sukhman3125/Coding-Problems/tree/master/1881-maximum-value-after-insertion) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/Sukhman3125/Coding-Problems/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Sukhman3125/Coding-Problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -658,6 +660,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/Sukhman3125/Coding-Problems/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1268-search-suggestions-system](https://github.com/Sukhman3125/Coding-Problems/tree/master/1268-search-suggestions-system) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Sukhman3125/Coding-Problems/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1705-maximum-number-of-eaten-apples](https://github.com/Sukhman3125/Coding-Problems/tree/master/1705-maximum-number-of-eaten-apples) |
 | [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/Sukhman3125/Coding-Problems/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
 | [1834-single-threaded-cpu](https://github.com/Sukhman3125/Coding-Problems/tree/master/1834-single-threaded-cpu) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/Sukhman3125/Coding-Problems/tree/master/2462-total-cost-to-hire-k-workers) |
