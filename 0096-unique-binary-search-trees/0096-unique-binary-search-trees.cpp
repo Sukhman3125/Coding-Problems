@@ -1,10 +1,11 @@
 class Solution {
-private:
-    static inline int ans[] = {
-        1,2,5,14,42,132,429,1430,4862,16796,58786,208012,742900,2674440,9694845,35357670,129644790,477638700,1767263190
-    };
 public:
     int numTrees(int n) {
-        return ans[n-1];
+        long long ans = 1;
+
+        for(int i=0; i<n; i++){
+            ans = ans * (2 * n - i)/(i + 1);
+        }
+        return ans / (n + 1);
     }
 };
