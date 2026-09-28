@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/Sukhman3125/Coding-Problems/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
 | [3825-longest-strictly-increasing-subsequence-with-non-zero-bitwise-and](https://github.com/Sukhman3125/Coding-Problems/tree/master/3825-longest-strictly-increasing-subsequence-with-non-zero-bitwise-and) |
 | [3840-house-robber-v](https://github.com/Sukhman3125/Coding-Problems/tree/master/3840-house-robber-v) |
+| [3847-find-the-score-difference-in-a-game](https://github.com/Sukhman3125/Coding-Problems/tree/master/3847-find-the-score-difference-in-a-game) |
 | [3866-first-unique-even-element](https://github.com/Sukhman3125/Coding-Problems/tree/master/3866-first-unique-even-element) |
 | [3885-design-event-manager](https://github.com/Sukhman3125/Coding-Problems/tree/master/3885-design-event-manager) |
 | [3979-maximum-valid-pair-sum](https://github.com/Sukhman3125/Coding-Problems/tree/master/3979-maximum-valid-pair-sum) |
@@ -510,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2660-determine-the-winner-of-a-bowling-game](https://github.com/Sukhman3125/Coding-Problems/tree/master/2660-determine-the-winner-of-a-bowling-game) |
 | [2810-faulty-keyboard](https://github.com/Sukhman3125/Coding-Problems/tree/master/2810-faulty-keyboard) |
 | [3433-count-mentions-per-user](https://github.com/Sukhman3125/Coding-Problems/tree/master/3433-count-mentions-per-user) |
+| [3847-find-the-score-difference-in-a-game](https://github.com/Sukhman3125/Coding-Problems/tree/master/3847-find-the-score-difference-in-a-game) |
 ## Backtracking
 |  |
 | ------- |
