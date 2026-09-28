@@ -306,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Sukhman3125/Coding-Problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2810-faulty-keyboard](https://github.com/Sukhman3125/Coding-Problems/tree/master/2810-faulty-keyboard) |
 | [2844-minimum-operations-to-make-a-special-number](https://github.com/Sukhman3125/Coding-Problems/tree/master/2844-minimum-operations-to-make-a-special-number) |
+| [2938-separate-black-and-white-balls](https://github.com/Sukhman3125/Coding-Problems/tree/master/2938-separate-black-and-white-balls) |
 | [3675-minimum-operations-to-transform-string](https://github.com/Sukhman3125/Coding-Problems/tree/master/3675-minimum-operations-to-transform-string) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/Sukhman3125/Coding-Problems/tree/master/3746-minimum-string-length-after-balanced-removals) |
 | [3781-maximum-score-after-binary-swaps](https://github.com/Sukhman3125/Coding-Problems/tree/master/3781-maximum-score-after-binary-swaps) |
@@ -556,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2462-total-cost-to-hire-k-workers](https://github.com/Sukhman3125/Coding-Problems/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Sukhman3125/Coding-Problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Sukhman3125/Coding-Problems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [2938-separate-black-and-white-balls](https://github.com/Sukhman3125/Coding-Problems/tree/master/2938-separate-black-and-white-balls) |
 ## Greedy
 |  |
 | ------- |
@@ -578,6 +580,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2498-frog-jump-ii](https://github.com/Sukhman3125/Coding-Problems/tree/master/2498-frog-jump-ii) |
 | [2542-maximum-subsequence-score](https://github.com/Sukhman3125/Coding-Problems/tree/master/2542-maximum-subsequence-score) |
 | [2844-minimum-operations-to-make-a-special-number](https://github.com/Sukhman3125/Coding-Problems/tree/master/2844-minimum-operations-to-make-a-special-number) |
+| [2938-separate-black-and-white-balls](https://github.com/Sukhman3125/Coding-Problems/tree/master/2938-separate-black-and-white-balls) |
 | [2939-maximum-xor-product](https://github.com/Sukhman3125/Coding-Problems/tree/master/2939-maximum-xor-product) |
 | [3273-minimum-amount-of-damage-dealt-to-bob](https://github.com/Sukhman3125/Coding-Problems/tree/master/3273-minimum-amount-of-damage-dealt-to-bob) |
 | [3413-maximum-coins-from-k-consecutive-bags](https://github.com/Sukhman3125/Coding-Problems/tree/master/3413-maximum-coins-from-k-consecutive-bags) |
