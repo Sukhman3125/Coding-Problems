@@ -13,7 +13,7 @@ private:
         if (i == m - 1 && j == n - 1)
             return dp[i][j][cnt] = cnt == 0;
         return dp[i][j][cnt] =
-                   recur(grid, i + 1, j, cnt) | recur(grid, i, j + 1, cnt);
+                   recur(grid, i + 1, j, cnt) || recur(grid, i, j + 1, cnt);
     }
 
 public:
