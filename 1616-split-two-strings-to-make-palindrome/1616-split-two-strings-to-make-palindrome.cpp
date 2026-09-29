@@ -16,10 +16,10 @@ private:
             if(i>j) return true;
         }
         // unmatched i to j
-        return isPalin(a, i, j) | isPalin(b, i, j);
+        return isPalin(a, i, j) || isPalin(b, i, j);
     }
 public:
     bool checkPalindromeFormation(string& a, string& b) {
-        return helper(a, b) | helper(b, a);
+        return helper(a, b) || helper(b, a);
     }
 };
