@@ -1,30 +1,50 @@
 class Solution {
-private:
-    static inline int dp[101][101][201];
-    int m, n;
-    bool recur(vector<vector<char>>& grid, int i = 0, int j = 0, int cnt = 0) {
-        if (i >= m || j >= n)
-            return false;
-        cnt += grid[i][j] == '(' ? 1 : -1;
-        if (cnt < 0)
-            return false;
-        if (dp[i][j][cnt] != -1)
-            return dp[i][j][cnt];
-        if (i == m - 1 && j == n - 1)
-            return dp[i][j][cnt] = cnt == 0;
-        return dp[i][j][cnt] =
-                   recur(grid, i + 1, j, cnt) || recur(grid, i, j + 1, cnt);
+    using t = tuple<int, int, int>;
+
+    static inline pair<int, int> dirs[2] = {{0, 1}, {1, 0}};
+    static inline bool vis[101][101][201];
+
+    int inline _(char c) {
+        if (c == '(')
+            return 1;
+        return -1;
     }
 
 public:
+    Solution() {
+        for (int i = 0; i < 101 * 101 * 201; i++) {
+            *(&vis[0][0][0] + i) = false;
+        }
+    }
+
     bool hasValidPath(vector<vector<char>>& grid) {
-        m = grid.size(), n = grid[0].size();
+        if (_(grid[0][0]) == -1)
+            return false;
+        int m = grid.size(), n = grid[0].size();
         if ((m + n - 1) % 2 == 1)
             return false;
-
-        for (int i = 0; i < 101 * 101 * 201; i++) {
-            *(&dp[0][0][0] + i) = -1;
+        queue<t> q;
+        q.push({0, 0, _(grid[0][0])});
+        while (!q.empty()) {
+            auto [i, j, cnt] = q.front();
+            q.pop();
+            if (i == m - 1 && j == n - 1) {
+                if (cnt == 0) {
+                    return true;
+                    continue;
+                }
+            }
+            for (auto [di, dj] : dirs) {
+                int _i = i + di, _j = j + dj;
+                if (_i >= m || _j >= n)
+                    continue;
+                int _cnt = cnt + _(grid[_i][_j]);
+                if (_cnt < 0 || vis[_i][_j][_cnt])
+                    continue;
+                vis[_i][_j][_cnt] = true;
+                q.push({_i, _j, _cnt});
+            }
         }
-        return recur(grid);
+        return false;
     }
 };
