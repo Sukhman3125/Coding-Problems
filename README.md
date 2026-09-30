@@ -316,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/Sukhman3125/Coding-Problems/tree/master/1768-merge-strings-alternately) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Sukhman3125/Coding-Problems/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1881-maximum-value-after-insertion](https://github.com/Sukhman3125/Coding-Problems/tree/master/1881-maximum-value-after-insertion) |
+| [2000-reverse-prefix-of-word](https://github.com/Sukhman3125/Coding-Problems/tree/master/2000-reverse-prefix-of-word) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Sukhman3125/Coding-Problems/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2337-move-pieces-to-obtain-a-string](https://github.com/Sukhman3125/Coding-Problems/tree/master/2337-move-pieces-to-obtain-a-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Sukhman3125/Coding-Problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -587,6 +588,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0925-long-pressed-name](https://github.com/Sukhman3125/Coding-Problems/tree/master/0925-long-pressed-name) |
 | [1616-split-two-strings-to-make-palindrome](https://github.com/Sukhman3125/Coding-Problems/tree/master/1616-split-two-strings-to-make-palindrome) |
 | [1768-merge-strings-alternately](https://github.com/Sukhman3125/Coding-Problems/tree/master/1768-merge-strings-alternately) |
+| [2000-reverse-prefix-of-word](https://github.com/Sukhman3125/Coding-Problems/tree/master/2000-reverse-prefix-of-word) |
 | [2337-move-pieces-to-obtain-a-string](https://github.com/Sukhman3125/Coding-Problems/tree/master/2337-move-pieces-to-obtain-a-string) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/Sukhman3125/Coding-Problems/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Sukhman3125/Coding-Problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -729,6 +731,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Sukhman3125/Coding-Problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Sukhman3125/Coding-Problems/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/Sukhman3125/Coding-Problems/tree/master/1673-find-the-most-competitive-subsequence) |
+| [2000-reverse-prefix-of-word](https://github.com/Sukhman3125/Coding-Problems/tree/master/2000-reverse-prefix-of-word) |
 | [3638-maximum-balanced-shipments](https://github.com/Sukhman3125/Coding-Problems/tree/master/3638-maximum-balanced-shipments) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/Sukhman3125/Coding-Problems/tree/master/3746-minimum-string-length-after-balanced-removals) |
 ## Monotonic Stack
