@@ -4,8 +4,8 @@ public:
         int even = 0, odd = 0;
         while(n){
             int mask = n&3;
-            if(mask==1 || mask==3) even++;
-            if(mask==2 || mask==3) odd++;
+            even += mask & 1;
+            odd += (mask & 2)>>1;
             n >>= 2;
         }
         return {even, odd};
