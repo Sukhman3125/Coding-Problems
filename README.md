@@ -513,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/Sukhman3125/Coding-Problems/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0814-binary-tree-pruning](https://github.com/Sukhman3125/Coding-Problems/tree/master/0814-binary-tree-pruning) |
 | [0872-leaf-similar-trees](https://github.com/Sukhman3125/Coding-Problems/tree/master/0872-leaf-similar-trees) |
+| [0886-possible-bipartition](https://github.com/Sukhman3125/Coding-Problems/tree/master/0886-possible-bipartition) |
 | [0938-range-sum-of-bst](https://github.com/Sukhman3125/Coding-Problems/tree/master/0938-range-sum-of-bst) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Sukhman3125/Coding-Problems/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Sukhman3125/Coding-Problems/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
@@ -763,6 +764,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0433-minimum-genetic-mutation](https://github.com/Sukhman3125/Coding-Problems/tree/master/0433-minimum-genetic-mutation) |
 | [0655-print-binary-tree](https://github.com/Sukhman3125/Coding-Problems/tree/master/0655-print-binary-tree) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Sukhman3125/Coding-Problems/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0886-possible-bipartition](https://github.com/Sukhman3125/Coding-Problems/tree/master/0886-possible-bipartition) |
 | [0967-numbers-with-same-consecutive-differences](https://github.com/Sukhman3125/Coding-Problems/tree/master/0967-numbers-with-same-consecutive-differences) |
 | [1096-brace-expansion-ii](https://github.com/Sukhman3125/Coding-Problems/tree/master/1096-brace-expansion-ii) |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/Sukhman3125/Coding-Problems/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
@@ -772,12 +774,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/Sukhman3125/Coding-Problems/tree/master/0399-evaluate-division) |
+| [0886-possible-bipartition](https://github.com/Sukhman3125/Coding-Problems/tree/master/0886-possible-bipartition) |
 | [1905-count-sub-islands](https://github.com/Sukhman3125/Coding-Problems/tree/master/1905-count-sub-islands) |
 ## Graph Theory
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/Sukhman3125/Coding-Problems/tree/master/0399-evaluate-division) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Sukhman3125/Coding-Problems/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0886-possible-bipartition](https://github.com/Sukhman3125/Coding-Problems/tree/master/0886-possible-bipartition) |
 | [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/Sukhman3125/Coding-Problems/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
 | [3528-unit-conversion-i](https://github.com/Sukhman3125/Coding-Problems/tree/master/3528-unit-conversion-i) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Sukhman3125/Coding-Problems/tree/master/3650-minimum-cost-path-with-edge-reversals) |
@@ -921,4 +925,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/Sukhman3125/Coding-Problems/tree/master/1605-find-valid-matrix-given-row-and-column-sums) |
+## Graph Coloring
+|  |
+| ------- |
+| [0886-possible-bipartition](https://github.com/Sukhman3125/Coding-Problems/tree/master/0886-possible-bipartition) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0886-possible-bipartition](https://github.com/Sukhman3125/Coding-Problems/tree/master/0886-possible-bipartition) |
 <!---LeetCode Topics End-->
