@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3433-count-mentions-per-user](https://github.com/Sukhman3125/Coding-Problems/tree/master/3433-count-mentions-per-user) |
 | [3434-maximum-frequency-after-subarray-operation](https://github.com/Sukhman3125/Coding-Problems/tree/master/3434-maximum-frequency-after-subarray-operation) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Sukhman3125/Coding-Problems/tree/master/3483-unique-3-digit-even-numbers) |
+| [3508-implement-router](https://github.com/Sukhman3125/Coding-Problems/tree/master/3508-implement-router) |
 | [3524-find-x-value-of-array-i](https://github.com/Sukhman3125/Coding-Problems/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Sukhman3125/Coding-Problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Sukhman3125/Coding-Problems/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Sukhman3125/Coding-Problems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3413-maximum-coins-from-k-consecutive-bags](https://github.com/Sukhman3125/Coding-Problems/tree/master/3413-maximum-coins-from-k-consecutive-bags) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Sukhman3125/Coding-Problems/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3508-implement-router](https://github.com/Sukhman3125/Coding-Problems/tree/master/3508-implement-router) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Sukhman3125/Coding-Problems/tree/master/3634-minimum-removals-to-balance-array) |
 | [3825-longest-strictly-increasing-subsequence-with-non-zero-bitwise-and](https://github.com/Sukhman3125/Coding-Problems/tree/master/3825-longest-strictly-increasing-subsequence-with-non-zero-bitwise-and) |
 | [3932-count-k-th-roots-in-a-range](https://github.com/Sukhman3125/Coding-Problems/tree/master/3932-count-k-th-roots-in-a-range) |
@@ -408,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3371-identify-the-largest-outlier-in-an-array](https://github.com/Sukhman3125/Coding-Problems/tree/master/3371-identify-the-largest-outlier-in-an-array) |
 | [3434-maximum-frequency-after-subarray-operation](https://github.com/Sukhman3125/Coding-Problems/tree/master/3434-maximum-frequency-after-subarray-operation) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Sukhman3125/Coding-Problems/tree/master/3483-unique-3-digit-even-numbers) |
+| [3508-implement-router](https://github.com/Sukhman3125/Coding-Problems/tree/master/3508-implement-router) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Sukhman3125/Coding-Problems/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3588-find-maximum-area-of-a-triangle](https://github.com/Sukhman3125/Coding-Problems/tree/master/3588-find-maximum-area-of-a-triangle) |
 | [3728-stable-subarrays-with-equal-boundary-and-interior-sum](https://github.com/Sukhman3125/Coding-Problems/tree/master/3728-stable-subarrays-with-equal-boundary-and-interior-sum) |
@@ -428,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0981-time-based-key-value-store](https://github.com/Sukhman3125/Coding-Problems/tree/master/0981-time-based-key-value-store) |
 | [1396-design-underground-system](https://github.com/Sukhman3125/Coding-Problems/tree/master/1396-design-underground-system) |
 | [2013-detect-squares](https://github.com/Sukhman3125/Coding-Problems/tree/master/2013-detect-squares) |
+| [3508-implement-router](https://github.com/Sukhman3125/Coding-Problems/tree/master/3508-implement-router) |
 | [3885-design-event-manager](https://github.com/Sukhman3125/Coding-Problems/tree/master/3885-design-event-manager) |
 ## Counting
 |  |
@@ -682,6 +686,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0933-number-of-recent-calls](https://github.com/Sukhman3125/Coding-Problems/tree/master/0933-number-of-recent-calls) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Sukhman3125/Coding-Problems/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Sukhman3125/Coding-Problems/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [3508-implement-router](https://github.com/Sukhman3125/Coding-Problems/tree/master/3508-implement-router) |
 ## DP on Trees
 |  |
 | ------- |
@@ -823,6 +828,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Sukhman3125/Coding-Problems/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [3508-implement-router](https://github.com/Sukhman3125/Coding-Problems/tree/master/3508-implement-router) |
 | [3885-design-event-manager](https://github.com/Sukhman3125/Coding-Problems/tree/master/3885-design-event-manager) |
 ## Interactive
 |  |
