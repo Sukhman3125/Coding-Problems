@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Sukhman3125/Coding-Problems/tree/master/0096-unique-binary-search-trees) |
+| [0292-nim-game](https://github.com/Sukhman3125/Coding-Problems/tree/master/0292-nim-game) |
 | [0313-super-ugly-number](https://github.com/Sukhman3125/Coding-Problems/tree/master/0313-super-ugly-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Sukhman3125/Coding-Problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0391-perfect-rectangle](https://github.com/Sukhman3125/Coding-Problems/tree/master/0391-perfect-rectangle) |
@@ -885,13 +886,27 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Minimax
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Sukhman3125/Coding-Problems/tree/master/0292-nim-game) |
 | [1686-stone-game-vi](https://github.com/Sukhman3125/Coding-Problems/tree/master/1686-stone-game-vi) |
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Sukhman3125/Coding-Problems/tree/master/0292-nim-game) |
 | [1686-stone-game-vi](https://github.com/Sukhman3125/Coding-Problems/tree/master/1686-stone-game-vi) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1686-stone-game-vi](https://github.com/Sukhman3125/Coding-Problems/tree/master/1686-stone-game-vi) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Sukhman3125/Coding-Problems/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Sukhman3125/Coding-Problems/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Sukhman3125/Coding-Problems/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
