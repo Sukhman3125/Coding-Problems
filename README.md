@@ -287,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/Sukhman3125/Coding-Problems/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/Sukhman3125/Coding-Problems/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/Sukhman3125/Coding-Problems/tree/master/0115-distinct-subsequences) |
+| [0301-remove-invalid-parentheses](https://github.com/Sukhman3125/Coding-Problems/tree/master/0301-remove-invalid-parentheses) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Sukhman3125/Coding-Problems/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Sukhman3125/Coding-Problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/Sukhman3125/Coding-Problems/tree/master/0383-ransom-note) |
@@ -583,6 +584,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Sukhman3125/Coding-Problems/tree/master/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/Sukhman3125/Coding-Problems/tree/master/0301-remove-invalid-parentheses) |
 | [0967-numbers-with-same-consecutive-differences](https://github.com/Sukhman3125/Coding-Problems/tree/master/0967-numbers-with-same-consecutive-differences) |
 | [1096-brace-expansion-ii](https://github.com/Sukhman3125/Coding-Problems/tree/master/1096-brace-expansion-ii) |
 | [1219-path-with-maximum-gold](https://github.com/Sukhman3125/Coding-Problems/tree/master/1219-path-with-maximum-gold) |
@@ -778,6 +780,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/Sukhman3125/Coding-Problems/tree/master/0301-remove-invalid-parentheses) |
 | [0399-evaluate-division](https://github.com/Sukhman3125/Coding-Problems/tree/master/0399-evaluate-division) |
 | [0433-minimum-genetic-mutation](https://github.com/Sukhman3125/Coding-Problems/tree/master/0433-minimum-genetic-mutation) |
 | [0655-print-binary-tree](https://github.com/Sukhman3125/Coding-Problems/tree/master/0655-print-binary-tree) |
