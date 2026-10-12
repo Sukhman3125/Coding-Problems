@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1486-xor-operation-in-an-array](https://github.com/Sukhman3125/Coding-Problems/tree/master/1486-xor-operation-in-an-array) |
 | [2595-number-of-even-and-odd-bits](https://github.com/Sukhman3125/Coding-Problems/tree/master/2595-number-of-even-and-odd-bits) |
 | [2708-maximum-strength-of-a-group](https://github.com/Sukhman3125/Coding-Problems/tree/master/2708-maximum-strength-of-a-group) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Sukhman3125/Coding-Problems/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2939-maximum-xor-product](https://github.com/Sukhman3125/Coding-Problems/tree/master/2939-maximum-xor-product) |
 | [3011-find-if-array-can-be-sorted](https://github.com/Sukhman3125/Coding-Problems/tree/master/3011-find-if-array-can-be-sorted) |
 | [3825-longest-strictly-increasing-subsequence-with-non-zero-bitwise-and](https://github.com/Sukhman3125/Coding-Problems/tree/master/3825-longest-strictly-increasing-subsequence-with-non-zero-bitwise-and) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2768-number-of-black-blocks](https://github.com/Sukhman3125/Coding-Problems/tree/master/2768-number-of-black-blocks) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Sukhman3125/Coding-Problems/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Sukhman3125/Coding-Problems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Sukhman3125/Coding-Problems/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3011-find-if-array-can-be-sorted](https://github.com/Sukhman3125/Coding-Problems/tree/master/3011-find-if-array-can-be-sorted) |
 | [3039-apply-operations-to-make-string-empty](https://github.com/Sukhman3125/Coding-Problems/tree/master/3039-apply-operations-to-make-string-empty) |
 | [3153-sum-of-digit-differences-of-all-pairs](https://github.com/Sukhman3125/Coding-Problems/tree/master/3153-sum-of-digit-differences-of-all-pairs) |
@@ -422,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2615-sum-of-distances](https://github.com/Sukhman3125/Coding-Problems/tree/master/2615-sum-of-distances) |
 | [2661-first-completely-painted-row-or-column](https://github.com/Sukhman3125/Coding-Problems/tree/master/2661-first-completely-painted-row-or-column) |
 | [2768-number-of-black-blocks](https://github.com/Sukhman3125/Coding-Problems/tree/master/2768-number-of-black-blocks) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Sukhman3125/Coding-Problems/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3039-apply-operations-to-make-string-empty](https://github.com/Sukhman3125/Coding-Problems/tree/master/3039-apply-operations-to-make-string-empty) |
 | [3153-sum-of-digit-differences-of-all-pairs](https://github.com/Sukhman3125/Coding-Problems/tree/master/3153-sum-of-digit-differences-of-all-pairs) |
 | [3265-count-almost-equal-pairs-i](https://github.com/Sukhman3125/Coding-Problems/tree/master/3265-count-almost-equal-pairs-i) |
@@ -651,6 +654,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2542-maximum-subsequence-score](https://github.com/Sukhman3125/Coding-Problems/tree/master/2542-maximum-subsequence-score) |
 | [2708-maximum-strength-of-a-group](https://github.com/Sukhman3125/Coding-Problems/tree/master/2708-maximum-strength-of-a-group) |
 | [2844-minimum-operations-to-make-a-special-number](https://github.com/Sukhman3125/Coding-Problems/tree/master/2844-minimum-operations-to-make-a-special-number) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Sukhman3125/Coding-Problems/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2938-separate-black-and-white-balls](https://github.com/Sukhman3125/Coding-Problems/tree/master/2938-separate-black-and-white-balls) |
 | [2939-maximum-xor-product](https://github.com/Sukhman3125/Coding-Problems/tree/master/2939-maximum-xor-product) |
 | [3273-minimum-amount-of-damage-dealt-to-bob](https://github.com/Sukhman3125/Coding-Problems/tree/master/3273-minimum-amount-of-damage-dealt-to-bob) |
