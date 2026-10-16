@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Sukhman3125/Coding-Problems/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2013-detect-squares](https://github.com/Sukhman3125/Coding-Problems/tree/master/2013-detect-squares) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Sukhman3125/Coding-Problems/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
+| [2080-range-frequency-queries](https://github.com/Sukhman3125/Coding-Problems/tree/master/2080-range-frequency-queries) |
 | [2121-intervals-between-identical-elements](https://github.com/Sukhman3125/Coding-Problems/tree/master/2121-intervals-between-identical-elements) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Sukhman3125/Coding-Problems/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Sukhman3125/Coding-Problems/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Sukhman3125/Coding-Problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1539-kth-missing-positive-number](https://github.com/Sukhman3125/Coding-Problems/tree/master/1539-kth-missing-positive-number) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Sukhman3125/Coding-Problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2080-range-frequency-queries](https://github.com/Sukhman3125/Coding-Problems/tree/master/2080-range-frequency-queries) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Sukhman3125/Coding-Problems/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2498-frog-jump-ii](https://github.com/Sukhman3125/Coding-Problems/tree/master/2498-frog-jump-ii) |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/Sukhman3125/Coding-Problems/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
@@ -421,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Sukhman3125/Coding-Problems/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2013-detect-squares](https://github.com/Sukhman3125/Coding-Problems/tree/master/2013-detect-squares) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Sukhman3125/Coding-Problems/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
+| [2080-range-frequency-queries](https://github.com/Sukhman3125/Coding-Problems/tree/master/2080-range-frequency-queries) |
 | [2121-intervals-between-identical-elements](https://github.com/Sukhman3125/Coding-Problems/tree/master/2121-intervals-between-identical-elements) |
 | [2352-equal-row-and-column-pairs](https://github.com/Sukhman3125/Coding-Problems/tree/master/2352-equal-row-and-column-pairs) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Sukhman3125/Coding-Problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -457,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0981-time-based-key-value-store](https://github.com/Sukhman3125/Coding-Problems/tree/master/0981-time-based-key-value-store) |
 | [1396-design-underground-system](https://github.com/Sukhman3125/Coding-Problems/tree/master/1396-design-underground-system) |
 | [2013-detect-squares](https://github.com/Sukhman3125/Coding-Problems/tree/master/2013-detect-squares) |
+| [2080-range-frequency-queries](https://github.com/Sukhman3125/Coding-Problems/tree/master/2080-range-frequency-queries) |
 | [3508-implement-router](https://github.com/Sukhman3125/Coding-Problems/tree/master/3508-implement-router) |
 | [3885-design-event-manager](https://github.com/Sukhman3125/Coding-Problems/tree/master/3885-design-event-manager) |
 ## Counting
@@ -885,6 +889,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/Sukhman3125/Coding-Problems/tree/master/0307-range-sum-query-mutable) |
+| [2080-range-frequency-queries](https://github.com/Sukhman3125/Coding-Problems/tree/master/2080-range-frequency-queries) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Sukhman3125/Coding-Problems/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3380-maximum-area-rectangle-with-point-constraints-i](https://github.com/Sukhman3125/Coding-Problems/tree/master/3380-maximum-area-rectangle-with-point-constraints-i) |
 ## Ordered Set
