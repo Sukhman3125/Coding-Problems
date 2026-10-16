@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2798-number-of-employees-who-met-the-target](https://github.com/Sukhman3125/Coding-Problems/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Sukhman3125/Coding-Problems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Sukhman3125/Coding-Problems/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Sukhman3125/Coding-Problems/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3011-find-if-array-can-be-sorted](https://github.com/Sukhman3125/Coding-Problems/tree/master/3011-find-if-array-can-be-sorted) |
 | [3039-apply-operations-to-make-string-empty](https://github.com/Sukhman3125/Coding-Problems/tree/master/3039-apply-operations-to-make-string-empty) |
 | [3153-sum-of-digit-differences-of-all-pairs](https://github.com/Sukhman3125/Coding-Problems/tree/master/3153-sum-of-digit-differences-of-all-pairs) |
@@ -427,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2661-first-completely-painted-row-or-column](https://github.com/Sukhman3125/Coding-Problems/tree/master/2661-first-completely-painted-row-or-column) |
 | [2768-number-of-black-blocks](https://github.com/Sukhman3125/Coding-Problems/tree/master/2768-number-of-black-blocks) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Sukhman3125/Coding-Problems/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Sukhman3125/Coding-Problems/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3039-apply-operations-to-make-string-empty](https://github.com/Sukhman3125/Coding-Problems/tree/master/3039-apply-operations-to-make-string-empty) |
 | [3153-sum-of-digit-differences-of-all-pairs](https://github.com/Sukhman3125/Coding-Problems/tree/master/3153-sum-of-digit-differences-of-all-pairs) |
 | [3265-count-almost-equal-pairs-i](https://github.com/Sukhman3125/Coding-Problems/tree/master/3265-count-almost-equal-pairs-i) |
@@ -877,11 +879,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/Sukhman3125/Coding-Problems/tree/master/0307-range-sum-query-mutable) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Sukhman3125/Coding-Problems/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3380-maximum-area-rectangle-with-point-constraints-i](https://github.com/Sukhman3125/Coding-Problems/tree/master/3380-maximum-area-rectangle-with-point-constraints-i) |
 ## Segment Tree
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/Sukhman3125/Coding-Problems/tree/master/0307-range-sum-query-mutable) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Sukhman3125/Coding-Problems/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3380-maximum-area-rectangle-with-point-constraints-i](https://github.com/Sukhman3125/Coding-Problems/tree/master/3380-maximum-area-rectangle-with-point-constraints-i) |
 ## Ordered Set
 |  |
