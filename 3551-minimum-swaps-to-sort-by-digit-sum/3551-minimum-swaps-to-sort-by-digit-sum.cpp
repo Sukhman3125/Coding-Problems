@@ -27,16 +27,18 @@ public:
         }
 
         vector<bool> vis(n, false);
-        int cnt = 0;
+        int ans = 0;
         for(int i=0; i<n; i++){
             if(vis[i]) continue;
-            cnt++;
+            int cnt = 0;
             int j = i;
             while(!vis[j]){
                 vis[j] = true;
+                cnt++;
                 j = adj[j];
             }
+            ans += cnt-1;
         }
-        return n-cnt;
+        return ans;
     }
 };
