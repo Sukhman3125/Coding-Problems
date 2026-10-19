@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2013-detect-squares](https://github.com/Sukhman3125/Coding-Problems/tree/master/2013-detect-squares) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Sukhman3125/Coding-Problems/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2080-range-frequency-queries](https://github.com/Sukhman3125/Coding-Problems/tree/master/2080-range-frequency-queries) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Sukhman3125/Coding-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2121-intervals-between-identical-elements](https://github.com/Sukhman3125/Coding-Problems/tree/master/2121-intervals-between-identical-elements) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Sukhman3125/Coding-Problems/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Sukhman3125/Coding-Problems/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Sukhman3125/Coding-Problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Sukhman3125/Coding-Problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2080-range-frequency-queries](https://github.com/Sukhman3125/Coding-Problems/tree/master/2080-range-frequency-queries) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Sukhman3125/Coding-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Sukhman3125/Coding-Problems/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2498-frog-jump-ii](https://github.com/Sukhman3125/Coding-Problems/tree/master/2498-frog-jump-ii) |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/Sukhman3125/Coding-Problems/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
@@ -382,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1686-stone-game-vi](https://github.com/Sukhman3125/Coding-Problems/tree/master/1686-stone-game-vi) |
 | [1834-single-threaded-cpu](https://github.com/Sukhman3125/Coding-Problems/tree/master/1834-single-threaded-cpu) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Sukhman3125/Coding-Problems/tree/master/1913-maximum-product-difference-between-two-pairs) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Sukhman3125/Coding-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Sukhman3125/Coding-Problems/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2542-maximum-subsequence-score](https://github.com/Sukhman3125/Coding-Problems/tree/master/2542-maximum-subsequence-score) |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/Sukhman3125/Coding-Problems/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
