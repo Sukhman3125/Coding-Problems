@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3866-first-unique-even-element](https://github.com/Sukhman3125/Coding-Problems/tree/master/3866-first-unique-even-element) |
 | [3885-design-event-manager](https://github.com/Sukhman3125/Coding-Problems/tree/master/3885-design-event-manager) |
 | [3886-sum-of-sortable-integers](https://github.com/Sukhman3125/Coding-Problems/tree/master/3886-sum-of-sortable-integers) |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/Sukhman3125/Coding-Problems/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 | [3979-maximum-valid-pair-sum](https://github.com/Sukhman3125/Coding-Problems/tree/master/3979-maximum-valid-pair-sum) |
 ## Divide and Conquer
 |  |
