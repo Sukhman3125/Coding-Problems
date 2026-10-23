@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Sukhman3125/Coding-Problems/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3433-count-mentions-per-user](https://github.com/Sukhman3125/Coding-Problems/tree/master/3433-count-mentions-per-user) |
 | [3434-maximum-frequency-after-subarray-operation](https://github.com/Sukhman3125/Coding-Problems/tree/master/3434-maximum-frequency-after-subarray-operation) |
+| [3457-eat-pizzas](https://github.com/Sukhman3125/Coding-Problems/tree/master/3457-eat-pizzas) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Sukhman3125/Coding-Problems/tree/master/3483-unique-3-digit-even-numbers) |
 | [3508-implement-router](https://github.com/Sukhman3125/Coding-Problems/tree/master/3508-implement-router) |
 | [3524-find-x-value-of-array-i](https://github.com/Sukhman3125/Coding-Problems/tree/master/3524-find-x-value-of-array-i) |
@@ -407,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3413-maximum-coins-from-k-consecutive-bags](https://github.com/Sukhman3125/Coding-Problems/tree/master/3413-maximum-coins-from-k-consecutive-bags) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Sukhman3125/Coding-Problems/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3433-count-mentions-per-user](https://github.com/Sukhman3125/Coding-Problems/tree/master/3433-count-mentions-per-user) |
+| [3457-eat-pizzas](https://github.com/Sukhman3125/Coding-Problems/tree/master/3457-eat-pizzas) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Sukhman3125/Coding-Problems/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Sukhman3125/Coding-Problems/tree/master/3634-minimum-removals-to-balance-array) |
 | [3886-sum-of-sortable-integers](https://github.com/Sukhman3125/Coding-Problems/tree/master/3886-sum-of-sortable-integers) |
@@ -696,6 +698,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3273-minimum-amount-of-damage-dealt-to-bob](https://github.com/Sukhman3125/Coding-Problems/tree/master/3273-minimum-amount-of-damage-dealt-to-bob) |
 | [3413-maximum-coins-from-k-consecutive-bags](https://github.com/Sukhman3125/Coding-Problems/tree/master/3413-maximum-coins-from-k-consecutive-bags) |
 | [3434-maximum-frequency-after-subarray-operation](https://github.com/Sukhman3125/Coding-Problems/tree/master/3434-maximum-frequency-after-subarray-operation) |
+| [3457-eat-pizzas](https://github.com/Sukhman3125/Coding-Problems/tree/master/3457-eat-pizzas) |
 | [3588-find-maximum-area-of-a-triangle](https://github.com/Sukhman3125/Coding-Problems/tree/master/3588-find-maximum-area-of-a-triangle) |
 | [3638-maximum-balanced-shipments](https://github.com/Sukhman3125/Coding-Problems/tree/master/3638-maximum-balanced-shipments) |
 | [3675-minimum-operations-to-transform-string](https://github.com/Sukhman3125/Coding-Problems/tree/master/3675-minimum-operations-to-transform-string) |
