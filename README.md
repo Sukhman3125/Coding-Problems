@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Sukhman3125/Coding-Problems/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2939-maximum-xor-product](https://github.com/Sukhman3125/Coding-Problems/tree/master/2939-maximum-xor-product) |
 | [3011-find-if-array-can-be-sorted](https://github.com/Sukhman3125/Coding-Problems/tree/master/3011-find-if-array-can-be-sorted) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Sukhman3125/Coding-Problems/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3825-longest-strictly-increasing-subsequence-with-non-zero-bitwise-and](https://github.com/Sukhman3125/Coding-Problems/tree/master/3825-longest-strictly-increasing-subsequence-with-non-zero-bitwise-and) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/Sukhman3125/Coding-Problems/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Array
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3634-minimum-removals-to-balance-array](https://github.com/Sukhman3125/Coding-Problems/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/Sukhman3125/Coding-Problems/tree/master/3637-trionic-array-i) |
 | [3638-maximum-balanced-shipments](https://github.com/Sukhman3125/Coding-Problems/tree/master/3638-maximum-balanced-shipments) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Sukhman3125/Coding-Problems/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3728-stable-subarrays-with-equal-boundary-and-interior-sum](https://github.com/Sukhman3125/Coding-Problems/tree/master/3728-stable-subarrays-with-equal-boundary-and-interior-sum) |
 | [3781-maximum-score-after-binary-swaps](https://github.com/Sukhman3125/Coding-Problems/tree/master/3781-maximum-score-after-binary-swaps) |
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/Sukhman3125/Coding-Problems/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
