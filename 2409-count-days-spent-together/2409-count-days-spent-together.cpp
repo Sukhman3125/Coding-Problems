@@ -1,8 +1,9 @@
 class Solution {
 private:
-    static inline int prefMonth[12] = {0,   31,  59,  90,  120, 151, 181, 212, 243, 273, 304, 334};
+    // number of days before nth month (1-indexed) (1st element is dummy)
+    static inline int prefMonth[13] = {0, 0, 31,  59,  90,  120, 151, 181, 212, 243, 273, 304, 334};
     int parseDate(string s) {
-        int month = stoi(s.substr(0, 2)) - 1; // 0 - indexed
+        int month = stoi(s.substr(0, 2));
         int day = stoi(s.substr(3, 2));
         return prefMonth[month] + day;
     }
