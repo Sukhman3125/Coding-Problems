@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Sukhman3125/Coding-Problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Sukhman3125/Coding-Problems/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1686-stone-game-vi](https://github.com/Sukhman3125/Coding-Problems/tree/master/1686-stone-game-vi) |
+| [2409-count-days-spent-together](https://github.com/Sukhman3125/Coding-Problems/tree/master/2409-count-days-spent-together) |
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/Sukhman3125/Coding-Problems/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Sukhman3125/Coding-Problems/tree/master/2769-find-the-maximum-achievable-number) |
 | [2844-minimum-operations-to-make-a-special-number](https://github.com/Sukhman3125/Coding-Problems/tree/master/2844-minimum-operations-to-make-a-special-number) |
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2000-reverse-prefix-of-word](https://github.com/Sukhman3125/Coding-Problems/tree/master/2000-reverse-prefix-of-word) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Sukhman3125/Coding-Problems/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2337-move-pieces-to-obtain-a-string](https://github.com/Sukhman3125/Coding-Problems/tree/master/2337-move-pieces-to-obtain-a-string) |
+| [2409-count-days-spent-together](https://github.com/Sukhman3125/Coding-Problems/tree/master/2409-count-days-spent-together) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Sukhman3125/Coding-Problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2810-faulty-keyboard](https://github.com/Sukhman3125/Coding-Problems/tree/master/2810-faulty-keyboard) |
 | [2844-minimum-operations-to-make-a-special-number](https://github.com/Sukhman3125/Coding-Problems/tree/master/2844-minimum-operations-to-make-a-special-number) |
