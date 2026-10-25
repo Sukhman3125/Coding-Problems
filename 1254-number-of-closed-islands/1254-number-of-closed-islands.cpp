@@ -34,11 +34,7 @@ private:
         }
     }
 
-public:
-    int closedIsland(vector<vector<int>>& grid) {
-        m = grid.size(), n = grid[0].size();
-        removeBoundaryIslands(grid);
-
+    int countIslands(vector<vector<int>>& grid){
         queue<pair<int, int>> q;
         int cnt = 0;
         for (int i = 1; i < m - 1; i++) {
@@ -50,5 +46,13 @@ public:
             }
         }
         return cnt;
+    }
+
+public:
+    int closedIsland(vector<vector<int>>& grid) {
+        m = grid.size(), n = grid[0].size();
+        removeBoundaryIslands(grid);
+
+        return countIslands(grid);
     }
 };
