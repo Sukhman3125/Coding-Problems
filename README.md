@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2121-intervals-between-identical-elements](https://github.com/Sukhman3125/Coding-Problems/tree/master/2121-intervals-between-identical-elements) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Sukhman3125/Coding-Problems/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2305-fair-distribution-of-cookies](https://github.com/Sukhman3125/Coding-Problems/tree/master/2305-fair-distribution-of-cookies) |
+| [2319-check-if-matrix-is-x-matrix](https://github.com/Sukhman3125/Coding-Problems/tree/master/2319-check-if-matrix-is-x-matrix) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Sukhman3125/Coding-Problems/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2352-equal-row-and-column-pairs](https://github.com/Sukhman3125/Coding-Problems/tree/master/2352-equal-row-and-column-pairs) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/Sukhman3125/Coding-Problems/tree/master/2373-largest-local-values-in-a-matrix) |
@@ -776,6 +777,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/Sukhman3125/Coding-Problems/tree/master/1605-find-valid-matrix-given-row-and-column-sums) |
 | [1905-count-sub-islands](https://github.com/Sukhman3125/Coding-Problems/tree/master/1905-count-sub-islands) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Sukhman3125/Coding-Problems/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2319-check-if-matrix-is-x-matrix](https://github.com/Sukhman3125/Coding-Problems/tree/master/2319-check-if-matrix-is-x-matrix) |
 | [2352-equal-row-and-column-pairs](https://github.com/Sukhman3125/Coding-Problems/tree/master/2352-equal-row-and-column-pairs) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/Sukhman3125/Coding-Problems/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2536-increment-submatrices-by-one](https://github.com/Sukhman3125/Coding-Problems/tree/master/2536-increment-submatrices-by-one) |
