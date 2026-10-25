@@ -3,22 +3,21 @@ public:
     int countStaircase(vector<int>& nums) {
         int cnt = 0;
         int n = nums.size();
-        for(int i=0;i<n;i++){
-            unordered_map<int, pair<int,int>> freq; //order, freq
+        for (int i = 0; i < n; i++) {
+            unordered_map<int, pair<int, int>> freq; // order, freq
             int k = 1, unbalanced = 0;
-            for(int j=i;j<n;j++){
-                if(freq.contains(nums[j])){
-                    freq[nums[j]].second++;
-                }else{
-                    freq[nums[j]].first = k++;
-                    freq[nums[j]].second = 1;
+            for (int j = i; j < n; j++) {
+                auto& [order, f] = freq[nums[j]];
+                if (f == 0) {
+                    order = k++;
                     unbalanced++;
                 }
-                if(freq[nums[j]].first == freq[nums[j]].second)
+                f++;
+                if (f == order)
                     unbalanced--;
-                if(freq[nums[j]].first < freq[nums[j]].second)
+                if (f > order)
                     break;
-                if(unbalanced == 0)
+                if (unbalanced == 0)
                     cnt++;
             }
         }
