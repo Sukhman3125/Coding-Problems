@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0313-super-ugly-number](https://github.com/Sukhman3125/Coding-Problems/tree/master/0313-super-ugly-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Sukhman3125/Coding-Problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0391-perfect-rectangle](https://github.com/Sukhman3125/Coding-Problems/tree/master/0391-perfect-rectangle) |
+| [0398-random-pick-index](https://github.com/Sukhman3125/Coding-Problems/tree/master/0398-random-pick-index) |
 | [0400-nth-digit](https://github.com/Sukhman3125/Coding-Problems/tree/master/0400-nth-digit) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Sukhman3125/Coding-Problems/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0492-construct-the-rectangle](https://github.com/Sukhman3125/Coding-Problems/tree/master/0492-construct-the-rectangle) |
@@ -427,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/Sukhman3125/Coding-Problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/Sukhman3125/Coding-Problems/tree/master/0383-ransom-note) |
 | [0391-perfect-rectangle](https://github.com/Sukhman3125/Coding-Problems/tree/master/0391-perfect-rectangle) |
+| [0398-random-pick-index](https://github.com/Sukhman3125/Coding-Problems/tree/master/0398-random-pick-index) |
 | [0433-minimum-genetic-mutation](https://github.com/Sukhman3125/Coding-Problems/tree/master/0433-minimum-genetic-mutation) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Sukhman3125/Coding-Problems/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0705-design-hashset](https://github.com/Sukhman3125/Coding-Problems/tree/master/0705-design-hashset) |
@@ -948,6 +950,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/Sukhman3125/Coding-Problems/tree/master/0380-insert-delete-getrandom-o1) |
+| [0398-random-pick-index](https://github.com/Sukhman3125/Coding-Problems/tree/master/0398-random-pick-index) |
 | [0528-random-pick-with-weight](https://github.com/Sukhman3125/Coding-Problems/tree/master/0528-random-pick-with-weight) |
 ## Counting Sort
 |  |
@@ -1045,4 +1048,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1390-four-divisors](https://github.com/Sukhman3125/Coding-Problems/tree/master/1390-four-divisors) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0398-random-pick-index](https://github.com/Sukhman3125/Coding-Problems/tree/master/0398-random-pick-index) |
 <!---LeetCode Topics End-->
