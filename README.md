@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/Sukhman3125/Coding-Problems/tree/master/0918-maximum-sum-circular-subarray) |
 | [0937-reorder-data-in-log-files](https://github.com/Sukhman3125/Coding-Problems/tree/master/0937-reorder-data-in-log-files) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Sukhman3125/Coding-Problems/tree/master/0950-reveal-cards-in-increasing-order) |
+| [0954-array-of-doubled-pairs](https://github.com/Sukhman3125/Coding-Problems/tree/master/0954-array-of-doubled-pairs) |
 | [1004-max-consecutive-ones-iii](https://github.com/Sukhman3125/Coding-Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Sukhman3125/Coding-Problems/tree/master/1019-next-greater-node-in-linked-list) |
 | [1072-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Sukhman3125/Coding-Problems/tree/master/1072-flip-columns-for-maximum-number-of-equal-rows) |
@@ -395,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0870-advantage-shuffle](https://github.com/Sukhman3125/Coding-Problems/tree/master/0870-advantage-shuffle) |
 | [0937-reorder-data-in-log-files](https://github.com/Sukhman3125/Coding-Problems/tree/master/0937-reorder-data-in-log-files) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Sukhman3125/Coding-Problems/tree/master/0950-reveal-cards-in-increasing-order) |
+| [0954-array-of-doubled-pairs](https://github.com/Sukhman3125/Coding-Problems/tree/master/0954-array-of-doubled-pairs) |
 | [1090-largest-values-from-labels](https://github.com/Sukhman3125/Coding-Problems/tree/master/1090-largest-values-from-labels) |
 | [1096-brace-expansion-ii](https://github.com/Sukhman3125/Coding-Problems/tree/master/1096-brace-expansion-ii) |
 | [1187-make-array-strictly-increasing](https://github.com/Sukhman3125/Coding-Problems/tree/master/1187-make-array-strictly-increasing) |
@@ -441,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/Sukhman3125/Coding-Problems/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Sukhman3125/Coding-Problems/tree/master/0706-design-hashmap) |
 | [0767-reorganize-string](https://github.com/Sukhman3125/Coding-Problems/tree/master/0767-reorganize-string) |
+| [0954-array-of-doubled-pairs](https://github.com/Sukhman3125/Coding-Problems/tree/master/0954-array-of-doubled-pairs) |
 | [0981-time-based-key-value-store](https://github.com/Sukhman3125/Coding-Problems/tree/master/0981-time-based-key-value-store) |
 | [1072-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Sukhman3125/Coding-Problems/tree/master/1072-flip-columns-for-maximum-number-of-equal-rows) |
 | [1090-largest-values-from-labels](https://github.com/Sukhman3125/Coding-Problems/tree/master/1090-largest-values-from-labels) |
@@ -694,6 +697,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Sukhman3125/Coding-Problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0767-reorganize-string](https://github.com/Sukhman3125/Coding-Problems/tree/master/0767-reorganize-string) |
 | [0870-advantage-shuffle](https://github.com/Sukhman3125/Coding-Problems/tree/master/0870-advantage-shuffle) |
+| [0954-array-of-doubled-pairs](https://github.com/Sukhman3125/Coding-Problems/tree/master/0954-array-of-doubled-pairs) |
 | [1090-largest-values-from-labels](https://github.com/Sukhman3125/Coding-Problems/tree/master/1090-largest-values-from-labels) |
 | [1328-break-a-palindrome](https://github.com/Sukhman3125/Coding-Problems/tree/master/1328-break-a-palindrome) |
 | [1402-reducing-dishes](https://github.com/Sukhman3125/Coding-Problems/tree/master/1402-reducing-dishes) |
