@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3011-find-if-array-can-be-sorted](https://github.com/Sukhman3125/Coding-Problems/tree/master/3011-find-if-array-can-be-sorted) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Sukhman3125/Coding-Problems/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3825-longest-strictly-increasing-subsequence-with-non-zero-bitwise-and](https://github.com/Sukhman3125/Coding-Problems/tree/master/3825-longest-strictly-increasing-subsequence-with-non-zero-bitwise-and) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Sukhman3125/Coding-Problems/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/Sukhman3125/Coding-Problems/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Array
 |  |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3840-house-robber-v](https://github.com/Sukhman3125/Coding-Problems/tree/master/3840-house-robber-v) |
 | [3847-find-the-score-difference-in-a-game](https://github.com/Sukhman3125/Coding-Problems/tree/master/3847-find-the-score-difference-in-a-game) |
 | [3866-first-unique-even-element](https://github.com/Sukhman3125/Coding-Problems/tree/master/3866-first-unique-even-element) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Sukhman3125/Coding-Problems/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3885-design-event-manager](https://github.com/Sukhman3125/Coding-Problems/tree/master/3885-design-event-manager) |
 | [3886-sum-of-sortable-integers](https://github.com/Sukhman3125/Coding-Problems/tree/master/3886-sum-of-sortable-integers) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Sukhman3125/Coding-Problems/tree/master/3942-minimum-operations-to-sort-a-permutation) |
@@ -573,6 +575,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3524-find-x-value-of-array-i](https://github.com/Sukhman3125/Coding-Problems/tree/master/3524-find-x-value-of-array-i) |
 | [3638-maximum-balanced-shipments](https://github.com/Sukhman3125/Coding-Problems/tree/master/3638-maximum-balanced-shipments) |
 | [3840-house-robber-v](https://github.com/Sukhman3125/Coding-Problems/tree/master/3840-house-robber-v) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Sukhman3125/Coding-Problems/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/Sukhman3125/Coding-Problems/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Depth-First Search
 |  |
@@ -791,6 +794,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2373-largest-local-values-in-a-matrix](https://github.com/Sukhman3125/Coding-Problems/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2536-increment-submatrices-by-one](https://github.com/Sukhman3125/Coding-Problems/tree/master/2536-increment-submatrices-by-one) |
 | [2661-first-completely-painted-row-or-column](https://github.com/Sukhman3125/Coding-Problems/tree/master/2661-first-completely-painted-row-or-column) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Sukhman3125/Coding-Problems/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Queue
 |  |
 | ------- |
