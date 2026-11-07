@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1705-maximum-number-of-eaten-apples](https://github.com/Sukhman3125/Coding-Problems/tree/master/1705-maximum-number-of-eaten-apples) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Sukhman3125/Coding-Problems/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1834-single-threaded-cpu](https://github.com/Sukhman3125/Coding-Problems/tree/master/1834-single-threaded-cpu) |
+| [1882-process-tasks-using-servers](https://github.com/Sukhman3125/Coding-Problems/tree/master/1882-process-tasks-using-servers) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/Sukhman3125/Coding-Problems/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [1905-count-sub-islands](https://github.com/Sukhman3125/Coding-Problems/tree/master/1905-count-sub-islands) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Sukhman3125/Coding-Problems/tree/master/1913-maximum-product-difference-between-two-pairs) |
@@ -837,6 +838,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1705-maximum-number-of-eaten-apples](https://github.com/Sukhman3125/Coding-Problems/tree/master/1705-maximum-number-of-eaten-apples) |
 | [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/Sukhman3125/Coding-Problems/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
 | [1834-single-threaded-cpu](https://github.com/Sukhman3125/Coding-Problems/tree/master/1834-single-threaded-cpu) |
+| [1882-process-tasks-using-servers](https://github.com/Sukhman3125/Coding-Problems/tree/master/1882-process-tasks-using-servers) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Sukhman3125/Coding-Problems/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/Sukhman3125/Coding-Problems/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/Sukhman3125/Coding-Problems/tree/master/2530-maximal-score-after-applying-k-operations) |
