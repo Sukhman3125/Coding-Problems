@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2080-range-frequency-queries](https://github.com/Sukhman3125/Coding-Problems/tree/master/2080-range-frequency-queries) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Sukhman3125/Coding-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2121-intervals-between-identical-elements](https://github.com/Sukhman3125/Coding-Problems/tree/master/2121-intervals-between-identical-elements) |
+| [2155-all-divisions-with-the-highest-score-of-a-binary-array](https://github.com/Sukhman3125/Coding-Problems/tree/master/2155-all-divisions-with-the-highest-score-of-a-binary-array) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Sukhman3125/Coding-Problems/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2305-fair-distribution-of-cookies](https://github.com/Sukhman3125/Coding-Problems/tree/master/2305-fair-distribution-of-cookies) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/Sukhman3125/Coding-Problems/tree/master/2319-check-if-matrix-is-x-matrix) |
