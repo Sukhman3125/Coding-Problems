@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0556-next-greater-element-iii](https://github.com/Sukhman3125/Coding-Problems/tree/master/0556-next-greater-element-iii) |
 | [0836-rectangle-overlap](https://github.com/Sukhman3125/Coding-Problems/tree/master/0836-rectangle-overlap) |
 | [1185-day-of-the-week](https://github.com/Sukhman3125/Coding-Problems/tree/master/1185-day-of-the-week) |
+| [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/Sukhman3125/Coding-Problems/tree/master/1237-find-positive-integer-solution-for-a-given-equation) |
 | [1390-four-divisors](https://github.com/Sukhman3125/Coding-Problems/tree/master/1390-four-divisors) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Sukhman3125/Coding-Problems/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1486-xor-operation-in-an-array](https://github.com/Sukhman3125/Coding-Problems/tree/master/1486-xor-operation-in-an-array) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0981-time-based-key-value-store](https://github.com/Sukhman3125/Coding-Problems/tree/master/0981-time-based-key-value-store) |
 | [1004-max-consecutive-ones-iii](https://github.com/Sukhman3125/Coding-Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1187-make-array-strictly-increasing](https://github.com/Sukhman3125/Coding-Problems/tree/master/1187-make-array-strictly-increasing) |
+| [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/Sukhman3125/Coding-Problems/tree/master/1237-find-positive-integer-solution-for-a-given-equation) |
 | [1268-search-suggestions-system](https://github.com/Sukhman3125/Coding-Problems/tree/master/1268-search-suggestions-system) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sukhman3125/Coding-Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Sukhman3125/Coding-Problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -695,6 +697,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0845-longest-mountain-in-array](https://github.com/Sukhman3125/Coding-Problems/tree/master/0845-longest-mountain-in-array) |
 | [0870-advantage-shuffle](https://github.com/Sukhman3125/Coding-Problems/tree/master/0870-advantage-shuffle) |
 | [0925-long-pressed-name](https://github.com/Sukhman3125/Coding-Problems/tree/master/0925-long-pressed-name) |
+| [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/Sukhman3125/Coding-Problems/tree/master/1237-find-positive-integer-solution-for-a-given-equation) |
 | [1616-split-two-strings-to-make-palindrome](https://github.com/Sukhman3125/Coding-Problems/tree/master/1616-split-two-strings-to-make-palindrome) |
 | [1768-merge-strings-alternately](https://github.com/Sukhman3125/Coding-Problems/tree/master/1768-merge-strings-alternately) |
 | [2000-reverse-prefix-of-word](https://github.com/Sukhman3125/Coding-Problems/tree/master/2000-reverse-prefix-of-word) |
@@ -995,6 +998,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Sukhman3125/Coding-Problems/tree/master/0278-first-bad-version) |
+| [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/Sukhman3125/Coding-Problems/tree/master/1237-find-positive-integer-solution-for-a-given-equation) |
 ## Randomized
 |  |
 | ------- |
