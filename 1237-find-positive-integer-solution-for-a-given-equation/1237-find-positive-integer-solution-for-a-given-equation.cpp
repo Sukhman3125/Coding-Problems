@@ -12,12 +12,22 @@
 
 class Solution {
 public:
-    vector<vector<int>> findSolution(CustomFunction& customfunction, int z) {
+    vector<vector<int>> findSolution(CustomFunction& cf, int z) {
         vector<vector<int>> ans;
-        for(int x=1;x<=1000;x++){
-            for(int y=1;y<=1000;y++){
-                if(customfunction.f(x,y) == z)
-                    ans.push_back({x,y});
+        for (int x = 1; x <= 1000; x++) {
+            int l = 1;
+            int r = 1000;
+            while (l <= r) {
+                int y = l + (r - l) / 2;
+                int val = cf.f(x, y);
+                if (val == z) {
+                    ans.push_back({x, y});
+                    break;
+                } else if (val > z) {
+                    r = y - 1;
+                } else {
+                    l = y + 1;
+                }
             }
         }
         return ans;
