@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-reducing-dishes](https://github.com/Sukhman3125/Coding-Problems/tree/master/1402-reducing-dishes) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Sukhman3125/Coding-Problems/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Sukhman3125/Coding-Problems/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Sukhman3125/Coding-Problems/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Sukhman3125/Coding-Problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Sukhman3125/Coding-Problems/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Sukhman3125/Coding-Problems/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -411,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1187-make-array-strictly-increasing](https://github.com/Sukhman3125/Coding-Problems/tree/master/1187-make-array-strictly-increasing) |
 | [1268-search-suggestions-system](https://github.com/Sukhman3125/Coding-Problems/tree/master/1268-search-suggestions-system) |
 | [1402-reducing-dishes](https://github.com/Sukhman3125/Coding-Problems/tree/master/1402-reducing-dishes) |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Sukhman3125/Coding-Problems/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Sukhman3125/Coding-Problems/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Sukhman3125/Coding-Problems/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/Sukhman3125/Coding-Problems/tree/master/1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
@@ -464,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/Sukhman3125/Coding-Problems/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/Sukhman3125/Coding-Problems/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [1396-design-underground-system](https://github.com/Sukhman3125/Coding-Problems/tree/master/1396-design-underground-system) |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Sukhman3125/Coding-Problems/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Sukhman3125/Coding-Problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/Sukhman3125/Coding-Problems/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Sukhman3125/Coding-Problems/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
