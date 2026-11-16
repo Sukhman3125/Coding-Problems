@@ -379,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1881-maximum-value-after-insertion](https://github.com/Sukhman3125/Coding-Problems/tree/master/1881-maximum-value-after-insertion) |
 | [2000-reverse-prefix-of-word](https://github.com/Sukhman3125/Coding-Problems/tree/master/2000-reverse-prefix-of-word) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Sukhman3125/Coding-Problems/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Sukhman3125/Coding-Problems/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2337-move-pieces-to-obtain-a-string](https://github.com/Sukhman3125/Coding-Problems/tree/master/2337-move-pieces-to-obtain-a-string) |
 | [2405-optimal-partition-of-string](https://github.com/Sukhman3125/Coding-Problems/tree/master/2405-optimal-partition-of-string) |
 | [2409-count-days-spent-together](https://github.com/Sukhman3125/Coding-Problems/tree/master/2409-count-days-spent-together) |
@@ -657,6 +658,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/Sukhman3125/Coding-Problems/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Sukhman3125/Coding-Problems/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Sukhman3125/Coding-Problems/tree/master/2181-merge-nodes-in-between-zeros) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Sukhman3125/Coding-Problems/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2352-equal-row-and-column-pairs](https://github.com/Sukhman3125/Coding-Problems/tree/master/2352-equal-row-and-column-pairs) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/Sukhman3125/Coding-Problems/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Sukhman3125/Coding-Problems/tree/master/2553-separate-the-digits-in-an-array) |
