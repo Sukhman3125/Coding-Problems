@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2536-increment-submatrices-by-one](https://github.com/Sukhman3125/Coding-Problems/tree/master/2536-increment-submatrices-by-one) |
 | [2542-maximum-subsequence-score](https://github.com/Sukhman3125/Coding-Problems/tree/master/2542-maximum-subsequence-score) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Sukhman3125/Coding-Problems/tree/master/2553-separate-the-digits-in-an-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Sukhman3125/Coding-Problems/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/Sukhman3125/Coding-Problems/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 | [2615-sum-of-distances](https://github.com/Sukhman3125/Coding-Problems/tree/master/2615-sum-of-distances) |
 | [2660-determine-the-winner-of-a-bowling-game](https://github.com/Sukhman3125/Coding-Problems/tree/master/2660-determine-the-winner-of-a-bowling-game) |
@@ -426,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/Sukhman3125/Coding-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Sukhman3125/Coding-Problems/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2542-maximum-subsequence-score](https://github.com/Sukhman3125/Coding-Problems/tree/master/2542-maximum-subsequence-score) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Sukhman3125/Coding-Problems/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/Sukhman3125/Coding-Problems/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 | [2708-maximum-strength-of-a-group](https://github.com/Sukhman3125/Coding-Problems/tree/master/2708-maximum-strength-of-a-group) |
 | [2747-count-zero-request-servers](https://github.com/Sukhman3125/Coding-Problems/tree/master/2747-count-zero-request-servers) |
@@ -742,6 +744,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2498-frog-jump-ii](https://github.com/Sukhman3125/Coding-Problems/tree/master/2498-frog-jump-ii) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/Sukhman3125/Coding-Problems/tree/master/2530-maximal-score-after-applying-k-operations) |
 | [2542-maximum-subsequence-score](https://github.com/Sukhman3125/Coding-Problems/tree/master/2542-maximum-subsequence-score) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Sukhman3125/Coding-Problems/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2708-maximum-strength-of-a-group](https://github.com/Sukhman3125/Coding-Problems/tree/master/2708-maximum-strength-of-a-group) |
 | [2800-shortest-string-that-contains-three-strings](https://github.com/Sukhman3125/Coding-Problems/tree/master/2800-shortest-string-that-contains-three-strings) |
 | [2844-minimum-operations-to-make-a-special-number](https://github.com/Sukhman3125/Coding-Problems/tree/master/2844-minimum-operations-to-make-a-special-number) |
