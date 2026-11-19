@@ -18,8 +18,6 @@ public:
         for(int i=0;i<3;i++){
             l[i] = lar.top();
             s[i] = sml.top();
-            cout<<i<<"l "<<l[i]<<endl;
-            cout<<i<<"s "<<s[i]<<endl;
             lar.pop(), sml.pop();
         }
         return min({
