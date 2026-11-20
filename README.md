@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Sukhman3125/Coding-Problems/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3011-find-if-array-can-be-sorted](https://github.com/Sukhman3125/Coding-Problems/tree/master/3011-find-if-array-can-be-sorted) |
 | [3039-apply-operations-to-make-string-empty](https://github.com/Sukhman3125/Coding-Problems/tree/master/3039-apply-operations-to-make-string-empty) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Sukhman3125/Coding-Problems/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3153-sum-of-digit-differences-of-all-pairs](https://github.com/Sukhman3125/Coding-Problems/tree/master/3153-sum-of-digit-differences-of-all-pairs) |
 | [3200-maximum-height-of-a-triangle](https://github.com/Sukhman3125/Coding-Problems/tree/master/3200-maximum-height-of-a-triangle) |
 | [3265-count-almost-equal-pairs-i](https://github.com/Sukhman3125/Coding-Problems/tree/master/3265-count-almost-equal-pairs-i) |
@@ -434,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Sukhman3125/Coding-Problems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3011-find-if-array-can-be-sorted](https://github.com/Sukhman3125/Coding-Problems/tree/master/3011-find-if-array-can-be-sorted) |
 | [3039-apply-operations-to-make-string-empty](https://github.com/Sukhman3125/Coding-Problems/tree/master/3039-apply-operations-to-make-string-empty) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Sukhman3125/Coding-Problems/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3265-count-almost-equal-pairs-i](https://github.com/Sukhman3125/Coding-Problems/tree/master/3265-count-almost-equal-pairs-i) |
 | [3273-minimum-amount-of-damage-dealt-to-bob](https://github.com/Sukhman3125/Coding-Problems/tree/master/3273-minimum-amount-of-damage-dealt-to-bob) |
 | [3380-maximum-area-rectangle-with-point-constraints-i](https://github.com/Sukhman3125/Coding-Problems/tree/master/3380-maximum-area-rectangle-with-point-constraints-i) |
@@ -588,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2305-fair-distribution-of-cookies](https://github.com/Sukhman3125/Coding-Problems/tree/master/2305-fair-distribution-of-cookies) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Sukhman3125/Coding-Problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2708-maximum-strength-of-a-group](https://github.com/Sukhman3125/Coding-Problems/tree/master/2708-maximum-strength-of-a-group) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Sukhman3125/Coding-Problems/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Sukhman3125/Coding-Problems/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3434-maximum-frequency-after-subarray-operation](https://github.com/Sukhman3125/Coding-Problems/tree/master/3434-maximum-frequency-after-subarray-operation) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Sukhman3125/Coding-Problems/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
