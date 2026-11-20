@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/Sukhman3125/Coding-Problems/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [1905-count-sub-islands](https://github.com/Sukhman3125/Coding-Problems/tree/master/1905-count-sub-islands) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Sukhman3125/Coding-Problems/tree/master/1913-maximum-product-difference-between-two-pairs) |
+| [1936-add-minimum-number-of-rungs](https://github.com/Sukhman3125/Coding-Problems/tree/master/1936-add-minimum-number-of-rungs) |
 | [2013-detect-squares](https://github.com/Sukhman3125/Coding-Problems/tree/master/2013-detect-squares) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Sukhman3125/Coding-Problems/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2080-range-frequency-queries](https://github.com/Sukhman3125/Coding-Problems/tree/master/2080-range-frequency-queries) |
@@ -741,6 +742,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1705-maximum-number-of-eaten-apples](https://github.com/Sukhman3125/Coding-Problems/tree/master/1705-maximum-number-of-eaten-apples) |
 | [1881-maximum-value-after-insertion](https://github.com/Sukhman3125/Coding-Problems/tree/master/1881-maximum-value-after-insertion) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/Sukhman3125/Coding-Problems/tree/master/1899-merge-triplets-to-form-target-triplet) |
+| [1936-add-minimum-number-of-rungs](https://github.com/Sukhman3125/Coding-Problems/tree/master/1936-add-minimum-number-of-rungs) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Sukhman3125/Coding-Problems/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2405-optimal-partition-of-string](https://github.com/Sukhman3125/Coding-Problems/tree/master/2405-optimal-partition-of-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Sukhman3125/Coding-Problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
