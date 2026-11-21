@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3200-maximum-height-of-a-triangle](https://github.com/Sukhman3125/Coding-Problems/tree/master/3200-maximum-height-of-a-triangle) |
 | [3265-count-almost-equal-pairs-i](https://github.com/Sukhman3125/Coding-Problems/tree/master/3265-count-almost-equal-pairs-i) |
 | [3273-minimum-amount-of-damage-dealt-to-bob](https://github.com/Sukhman3125/Coding-Problems/tree/master/3273-minimum-amount-of-damage-dealt-to-bob) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Sukhman3125/Coding-Problems/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3371-identify-the-largest-outlier-in-an-array](https://github.com/Sukhman3125/Coding-Problems/tree/master/3371-identify-the-largest-outlier-in-an-array) |
 | [3380-maximum-area-rectangle-with-point-constraints-i](https://github.com/Sukhman3125/Coding-Problems/tree/master/3380-maximum-area-rectangle-with-point-constraints-i) |
 | [3413-maximum-coins-from-k-consecutive-bags](https://github.com/Sukhman3125/Coding-Problems/tree/master/3413-maximum-coins-from-k-consecutive-bags) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/Sukhman3125/Coding-Problems/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Sukhman3125/Coding-Problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Sukhman3125/Coding-Problems/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Sukhman3125/Coding-Problems/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -391,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2810-faulty-keyboard](https://github.com/Sukhman3125/Coding-Problems/tree/master/2810-faulty-keyboard) |
 | [2844-minimum-operations-to-make-a-special-number](https://github.com/Sukhman3125/Coding-Problems/tree/master/2844-minimum-operations-to-make-a-special-number) |
 | [2938-separate-black-and-white-balls](https://github.com/Sukhman3125/Coding-Problems/tree/master/2938-separate-black-and-white-balls) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Sukhman3125/Coding-Problems/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3675-minimum-operations-to-transform-string](https://github.com/Sukhman3125/Coding-Problems/tree/master/3675-minimum-operations-to-transform-string) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/Sukhman3125/Coding-Problems/tree/master/3746-minimum-string-length-after-balanced-removals) |
 | [3781-maximum-score-after-binary-swaps](https://github.com/Sukhman3125/Coding-Problems/tree/master/3781-maximum-score-after-binary-swaps) |
@@ -499,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3039-apply-operations-to-make-string-empty](https://github.com/Sukhman3125/Coding-Problems/tree/master/3039-apply-operations-to-make-string-empty) |
 | [3153-sum-of-digit-differences-of-all-pairs](https://github.com/Sukhman3125/Coding-Problems/tree/master/3153-sum-of-digit-differences-of-all-pairs) |
 | [3265-count-almost-equal-pairs-i](https://github.com/Sukhman3125/Coding-Problems/tree/master/3265-count-almost-equal-pairs-i) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Sukhman3125/Coding-Problems/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3371-identify-the-largest-outlier-in-an-array](https://github.com/Sukhman3125/Coding-Problems/tree/master/3371-identify-the-largest-outlier-in-an-array) |
 | [3434-maximum-frequency-after-subarray-operation](https://github.com/Sukhman3125/Coding-Problems/tree/master/3434-maximum-frequency-after-subarray-operation) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Sukhman3125/Coding-Problems/tree/master/3483-unique-3-digit-even-numbers) |
@@ -620,6 +624,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/Sukhman3125/Coding-Problems/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [1905-count-sub-islands](https://github.com/Sukhman3125/Coding-Problems/tree/master/1905-count-sub-islands) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Sukhman3125/Coding-Problems/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Sukhman3125/Coding-Problems/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3528-unit-conversion-i](https://github.com/Sukhman3125/Coding-Problems/tree/master/3528-unit-conversion-i) |
 ## Recursion
 |  |
