@@ -1,21 +1,20 @@
 
 class Solution {
 private:
-    void dfs(int u, vector<vector<int>>& adj, string& s, int prev[26], vector<int>& parent) {
-        int c = s[u] - 'a';
-        int old = prev[c];
-        if (old != -1)
-            parent[u] = old;
-        prev[c] = u;
-        for (int v : adj[u])
-            dfs(v, adj, s, prev, parent);
-        prev[c] = old;
+    void dfs(vector<vector<int>>& adj, string& s, int prev[26], vector<int>& parent, int i=0) {
+        int temp = prev[s[i]-'a'];
+        if (temp != -1)
+            parent[i] = temp;
+        prev[s[i]-'a'] = i;
+        for (int it : adj[i])
+            dfs(adj, s, prev, parent, it);
+        prev[s[i]-'a'] = temp;
     }
 
-    int calc(int u, vector<vector<int>>& adj, vector<int>& ans) {
+    int subtreeSize(int u, vector<vector<int>>& adj, vector<int>& ans) {
         ans[u] = 1;
         for (int v : adj[u])
-            ans[u] += calc(v, adj, ans);
+            ans[u] += subtreeSize(v, adj, ans);
         return ans[u];
     }
 
@@ -28,15 +27,16 @@ public:
             adj[parent[i]].push_back(i);
 
         int prev[26];
-        fill(prev, prev + 26, -1);
-        dfs(0, adj, s, prev, parent);
+        for(int i=0;i<26;i++)
+            prev[i] = -1;
+        dfs(adj, s, prev, parent);
 
         vector<vector<int>> finalAdj(n);
         for (int i = 1; i < n; i++)
             finalAdj[parent[i]].push_back(i);
 
         vector<int> ans(n);
-        calc(0, finalAdj, ans);
+        subtreeSize(0, finalAdj, ans);
 
         return ans;
     }
