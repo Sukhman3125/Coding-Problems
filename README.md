@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Sukhman3125/Coding-Problems/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Sukhman3125/Coding-Problems/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1539-kth-missing-positive-number](https://github.com/Sukhman3125/Coding-Problems/tree/master/1539-kth-missing-positive-number) |
+| [1552-magnetic-force-between-two-balls](https://github.com/Sukhman3125/Coding-Problems/tree/master/1552-magnetic-force-between-two-balls) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Sukhman3125/Coding-Problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1590-make-sum-divisible-by-p](https://github.com/Sukhman3125/Coding-Problems/tree/master/1590-make-sum-divisible-by-p) |
 | [1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/Sukhman3125/Coding-Problems/tree/master/1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sukhman3125/Coding-Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Sukhman3125/Coding-Problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1539-kth-missing-positive-number](https://github.com/Sukhman3125/Coding-Problems/tree/master/1539-kth-missing-positive-number) |
+| [1552-magnetic-force-between-two-balls](https://github.com/Sukhman3125/Coding-Problems/tree/master/1552-magnetic-force-between-two-balls) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Sukhman3125/Coding-Problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Sukhman3125/Coding-Problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2080-range-frequency-queries](https://github.com/Sukhman3125/Coding-Problems/tree/master/2080-range-frequency-queries) |
@@ -427,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Sukhman3125/Coding-Problems/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Sukhman3125/Coding-Problems/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Sukhman3125/Coding-Problems/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1552-magnetic-force-between-two-balls](https://github.com/Sukhman3125/Coding-Problems/tree/master/1552-magnetic-force-between-two-balls) |
 | [1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/Sukhman3125/Coding-Problems/tree/master/1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
 | [1686-stone-game-vi](https://github.com/Sukhman3125/Coding-Problems/tree/master/1686-stone-game-vi) |
 | [1834-single-threaded-cpu](https://github.com/Sukhman3125/Coding-Problems/tree/master/1834-single-threaded-cpu) |
