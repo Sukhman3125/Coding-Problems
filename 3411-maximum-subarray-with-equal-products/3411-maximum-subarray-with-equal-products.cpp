@@ -1,4 +1,18 @@
 class Solution {
+private:
+    pair<int, int> primes[4] = {{2, 0}, {3, 0}, {5, 0}, {7, 0}};    // prime number, its count
+    void resolveNumber(int x, bool add){
+        for(auto& [p,cnt]:primes){
+            if(x%p == 0)
+                cnt += add?1:-1;
+        }
+    }
+    inline void addToWindow(int x){
+        resolveNumber(x, true);
+    }
+    inline void removeFromWindow(int x){
+        resolveNumber(x, false);
+    }
 public:
     int maxLength(vector<int>& nums) {
         // lcm -> [max(arr), product(arr)]
@@ -6,17 +20,12 @@ public:
         // for n==2, lcm*gcd == prod always
         // for n>2, lcm*gcd == prod only when all are pairwise coprime
         int ans = 2, n = nums.size();
-        pair<int, int> primes[4] = {{2, 0}, {3, 0}, {5, 0}, {7, 0}};    // prime number, its count
         int i = 0, j = 0;
         while (j < n) {
-            for (int pf1 = 0; pf1 < 4; pf1++) {
-                if (nums[j] % primes[pf1].first == 0)
-                    primes[pf1].second++;
-                while (primes[pf1].second > 1) {
-                    for (int pf2 = 0; pf2 < 4; pf2++) {
-                        if (nums[i] % primes[pf2].first == 0)
-                            primes[pf2].second--;
-                    }
+            addToWindow(nums[j]);
+            for(int p=0;p<4;p++){
+                while(primes[p].second > 1){
+                    removeFromWindow(nums[i]);
                     i++;
                 }
             }
