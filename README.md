@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2939-maximum-xor-product](https://github.com/Sukhman3125/Coding-Problems/tree/master/2939-maximum-xor-product) |
 | [3153-sum-of-digit-differences-of-all-pairs](https://github.com/Sukhman3125/Coding-Problems/tree/master/3153-sum-of-digit-differences-of-all-pairs) |
 | [3380-maximum-area-rectangle-with-point-constraints-i](https://github.com/Sukhman3125/Coding-Problems/tree/master/3380-maximum-area-rectangle-with-point-constraints-i) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Sukhman3125/Coding-Problems/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3433-count-mentions-per-user](https://github.com/Sukhman3125/Coding-Problems/tree/master/3433-count-mentions-per-user) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Sukhman3125/Coding-Problems/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3524-find-x-value-of-array-i](https://github.com/Sukhman3125/Coding-Problems/tree/master/3524-find-x-value-of-array-i) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3331-find-subtree-sizes-after-changes](https://github.com/Sukhman3125/Coding-Problems/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3371-identify-the-largest-outlier-in-an-array](https://github.com/Sukhman3125/Coding-Problems/tree/master/3371-identify-the-largest-outlier-in-an-array) |
 | [3380-maximum-area-rectangle-with-point-constraints-i](https://github.com/Sukhman3125/Coding-Problems/tree/master/3380-maximum-area-rectangle-with-point-constraints-i) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Sukhman3125/Coding-Problems/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3413-maximum-coins-from-k-consecutive-bags](https://github.com/Sukhman3125/Coding-Problems/tree/master/3413-maximum-coins-from-k-consecutive-bags) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Sukhman3125/Coding-Problems/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3433-count-mentions-per-user](https://github.com/Sukhman3125/Coding-Problems/tree/master/3433-count-mentions-per-user) |
@@ -650,6 +652,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3265-count-almost-equal-pairs-i](https://github.com/Sukhman3125/Coding-Problems/tree/master/3265-count-almost-equal-pairs-i) |
 | [3371-identify-the-largest-outlier-in-an-array](https://github.com/Sukhman3125/Coding-Problems/tree/master/3371-identify-the-largest-outlier-in-an-array) |
 | [3380-maximum-area-rectangle-with-point-constraints-i](https://github.com/Sukhman3125/Coding-Problems/tree/master/3380-maximum-area-rectangle-with-point-constraints-i) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Sukhman3125/Coding-Problems/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3434-maximum-frequency-after-subarray-operation](https://github.com/Sukhman3125/Coding-Problems/tree/master/3434-maximum-frequency-after-subarray-operation) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Sukhman3125/Coding-Problems/tree/master/3483-unique-3-digit-even-numbers) |
 | [3588-find-maximum-area-of-a-triangle](https://github.com/Sukhman3125/Coding-Problems/tree/master/3588-find-maximum-area-of-a-triangle) |
@@ -794,6 +797,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Sukhman3125/Coding-Problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Sukhman3125/Coding-Problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2747-count-zero-request-servers](https://github.com/Sukhman3125/Coding-Problems/tree/master/2747-count-zero-request-servers) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Sukhman3125/Coding-Problems/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3413-maximum-coins-from-k-consecutive-bags](https://github.com/Sukhman3125/Coding-Problems/tree/master/3413-maximum-coins-from-k-consecutive-bags) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Sukhman3125/Coding-Problems/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Sukhman3125/Coding-Problems/tree/master/3634-minimum-removals-to-balance-array) |
@@ -1044,6 +1048,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/Sukhman3125/Coding-Problems/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Sukhman3125/Coding-Problems/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Memoization
 |  |
 | ------- |
