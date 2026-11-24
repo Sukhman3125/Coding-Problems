@@ -1,6 +1,6 @@
 class Solution {
 private:
-    pair<int, int> primes[4] = {{2, 0}, {3, 0}, {5, 0}, {7, 0}};    // prime number, its count
+    static inline pair<int, int> primes[4] = {{2, 0}, {3, 0}, {5, 0}, {7, 0}};    // prime number, its count
     void resolveNumber(int x, bool add){
         for(auto& [p,cnt]:primes){
             if(x%p == 0)
@@ -12,6 +12,10 @@ private:
     }
     inline void removeFromWindow(int x){
         resolveNumber(x, false);
+    }
+    void cleanUp(){
+        for(auto& [_, cnt]: primes)
+            cnt = 0;
     }
 public:
     int maxLength(vector<int>& nums) {
@@ -32,6 +36,7 @@ public:
             ans = max(ans, j - i + 1);
             j++;
         }
+        cleanUp();
         return ans;
     }
 };
